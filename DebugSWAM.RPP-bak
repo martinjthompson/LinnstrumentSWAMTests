@@ -1,0 +1,2434 @@
+<REAPER_PROJECT 0.1 "5.77/OSX64" 1523383006
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 3
+  ZOOM 100 0 0
+  VZOOMEX 6
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {24DE068D-14E7-DF48-A10D-693C3AF21683}
+    NAME "Sax Linnstrument"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 5088 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {24DE068D-14E7-DF48-A10D-693C3AF21683}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 341 25 1025 676
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <AU "AUi: SWAM Tenor Sax (Audio Modeling)" "Audio Modeling: SWAM Tenor Sax" "" 1635085685 1398896724 1398227277
+        6QMAAAAAAAAAAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAAsKQAAPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHBsaXN0IFBVQkxJ
+        QyAiLS8vQXBwbGUvL0RURCBQTElTVCAxLjAvL0VOIiAiaHR0cDovL3d3dy5hcHBsZS5jb20vRFREcy9Qcm9wZXJ0eUxpc3QtMS4wLmR0ZCI+CjxwbGlzdCB2ZXJzaW9u
+        PSIxLjAiPgo8ZGljdD4KCTxrZXk+ZGF0YTwva2V5PgoJPGRhdGE+CglBQUFBQUFBQUFBQUFBQUNBQUFBQUFBQUFBQUFBQUFBQkFBQUFBQUFBQUFJQUFBQUFBQUFBQXdB
+        QUFBQUFBQUFFQUFBQQoJQUFBQUFBVUFBQUFBQUFBQUJnQUFBQUFBQUFBSEFBQUFBQUFBQUFnQUFBQUFBQUFBQ1FBQUFBQUFBQUFLQUFBQUFBQUEKCUFBc0FBQUFBQUFB
+        QURBQUFBQUFBQUFBTkFBQUFBQUFBQUE0QUFBQUFBQUFBRHdBQUFBQUFBQUFRQUFBQUFBQUFBQkVBCglBQUFBQUFBQUVnQUFBQUFBQUFBVEFBQUFBQUFBQUJRQUFBQUFB
+        QUFBRlFBQUFBQUFBQUFXQUFBQUFBQUFBQmNBQUFBQQoJQUFBQUdBQUFBQUFBQUFBWkFBQUFBQUFBQUJvQUFBQUFBQUFBR3dBQUFBQUFBQUFjQUFBQUFBQUFBQjBBQUFB
+        QUFBQUEKCUhnQUFBQUFBQUFBZkFBQUFBQUFBQUNBQUFBQUFBQUFBSVFBQUFBQUFBQUFpQUFBQUFBQUFBQ01BQUFBQUFBQUFKQUFBCglBQUFBQUFBbEFBQUFBQUFBQUNZ
+        QUFBQUFBQUFBSndBQUFBQUFBQUFvQUFBQUFBQUFBQ2tBQUFBQUFBQUFLZ0FBQUFBQQoJQUFBckFBQUFBQUFBQUN3QUFBQUFBQUFBTFFBQUFBQUFBQUF1QUFBQUFBQUFB
+        QzhBQUFBQUFBQUFNQUFBQUFBQUFBQXgKCUFBQUFBQUFBQURJQUFBQUFBQUFBTXdBQUFBQUFBQUEwQUFBQUFBQUFBRFVBQUFBQUFBQUFOZ0FBQUFBQUFBQTNBQUFBCglB
+        QUFBQURnQUFBQUFBQUFBT1FBQUFBQUFBQUE2QUFBQUFBQUFBRHNBQUFBQUFBQUFQQUFBQUFBQUFBQTlBQUFBQUFBQQoJQUQ0QUFBQUFBQUFBUHdBQUFBQUFBQUJBQUFB
+        QUFBQUFBRUVBQUFBQUFBQUFRZ0FBQUFBQUFBQkRBQUFBQUFBQUFFUUEKCUFBQUFBQUFBUlFBQUFBQUFBQUJHQUFBQUFBQUFBRWNBQUFBQUFBQUFTQUFBQUFBQUFBQkpB
+        QUFBQUFBQUFFb0FBQUFBCglBQUFBU3dBQUFBQUFBQUJNQUFBQUFBQUFBRTBBQUFBQUFBQUFUZ0FBQUFBQUFBQlBBQUFBQUFBQUFGQUFBQUFBQUFBQQoJVVFBQUFBQUFB
+        QUJTQUFBQUFBQUFBRk1BQUFBQUFBQUFWQUFBQUFBQUFBQlZBQUFBQUFBQUFGWUFBQUFBQUFBQVZ3QUEKCUFBQUFBQUJZQUFBQUFBQUFBRmtBQUFBQUFBQUFXZ0FBQUFB
+        QUFBQmJBQUFBQUFBQUFGd0FBQUFBQUFBQVhRQUFBQUFBCglBQUJlQUFBQUFBQUFBRjhBQUFBQUFBQUFZQUFBQUFBQUFBQmhBQUFBQUFBQUFHSUFBQUFBQUFBQVl3QUFB
+        QUFBQUFCawoJQUFBQUFBQUFBR1VBQUFBQUFBQUFaZ0FBQUFBQUFBQm5BQUFBQUFBQUFHZ0FBQUFBQUFBQWFRQUFBQUFBQUFCcUFBQUEKCUFBQUFBR3NBQUFBQUFBQUFi
+        QUFBQUFBQUFBQnRBQUFBQUFBQUFHNEFBQUFBQUFBQWJ3QUFBQUFBQUFCd0FBQUFBQUFBCglBSEVBQUFBQUFBQUFjZ0FBQUFBQUFBQnpBQUFBQUFBQUFIUUFBQUFBQUFB
+        QWRRQUFBQUFBQUFCMkFBQUFBQUFBQUhjQQoJQUFBQUFBQUFlQUFBQUFBQUFBQjVBQUFBQUFBQUFIb0FBQUFBQUFBQWV3QUFBQUFBQUFCOEFBQUFBQUFBQUgwQUFBQUEK
+        CUFBQUFmZ0FBQUFBQUFBQi9BQUFBQUE9PQoJPC9kYXRhPgoJPGtleT5qdWNlUGx1Z2luU3RhdGU8L2tleT4KCTxkYXRhPgoJVmtNeUlYVVlBQUE4YzNkaGJTQjBlWEJs
+        UFNKVFlYZ2lJSFpsY25OcGIyNDlJak1pUGp4a1lYUmxkR2x0WlNCMllXeDEKCVpUMGlWSFZsSUVGd2NpQXhNQ0F4T0RvMU5qbzBOaUF5TURFNEppTXhNRHNpTHo0OGNI
+        SnZaM0poYlNCMllXeDFaVDBpCglSR1ZtWVhWc2RGTmhlRXhwYm01emRISjFiV1Z1ZENJK1BIQmhjbUZ0SUc1aGJXVTlJbTFoYVc1V2IyeDFiV1VpSUdsdQoJWkdWNFBT
+        SXdJaUIyWVd4MVpUMGlNQzQzTWpRME1EWTBPREVpTHo0OGNHRnlZVzBnYm1GdFpUMGljR0Z1VUc5MElpQnAKCWJtUmxlRDBpTVNJZ2RtRnNkV1U5SWpBdU5TSXZQanh3
+        WVhKaGJTQnVZVzFsUFNKdFlYTjBaWEpVZFc1bElpQnBibVJsCgllRDBpTWlJZ2RtRnNkV1U5SWpBdU5EZ3lNVFF5T0RZMklpOCtQSEJoY21GdElHNWhiV1U5SW5KbGRt
+        VnlZazFwZUNJZwoJYVc1a1pYZzlJak1pSUhaaGJIVmxQU0l3TGpVaUx6NDhjR0Z5WVcwZ2JtRnRaVDBpY21WMlpYSmlWR2x0WlNJZ2FXNWsKCVpYZzlJalFpSUhaaGJI
+        VmxQU0l3TGpVaUx6NDhjR0Z5WVcwZ2JtRnRaVDBpZEhKaGJuTndiM05sVUdGeVlXMGlJR2x1CglaR1Y0UFNJMUlpQjJZV3gxWlQwaU1DNDFJaTgrUEhCaGNtRnRJRzVo
+        YldVOUluQnBkR05vUW1WdVpGVndJaUJwYm1SbAoJZUQwaU5pSWdkbUZzZFdVOUlqQWlMejQ4Y0dGeVlXMGdibUZ0WlQwaWNHbDBZMmhDWlc1a1JHOTNiaUlnYVc1a1pY
+        ZzkKCUlqY2lJSFpoYkhWbFBTSXdJaTgrUEhCaGNtRnRJRzVoYldVOUluWnBZbkpoZEc5U1lYUmxJaUJwYm1SbGVEMGlNVEFpCglJSFpoYkhWbFBTSXdJaTgrUEhCaGNt
+        RnRJRzVoYldVOUluWnZhV05sUTI5dFlqRlhaWFFpSUdsdVpHVjRQU0l4TVNJZwoJZG1Gc2RXVTlJakF1TlNJdlBqeHdZWEpoYlNCdVlXMWxQU0p6ZFdKb1lYSnRSMkZw
+        YmlJZ2FXNWtaWGc5SWpFMElpQjIKCVlXeDFaVDBpTUM0d09UUTBPRGd4T0RnMklpOCtQSEJoY21GdElHNWhiV1U5SW1keWIzZHNSMkZwYmlJZ2FXNWtaWGc5CglJakUx
+        SWlCMllXeDFaVDBpTUM0d05UVXhNVGd4TVNJdlBqeHdZWEpoYlNCdVlXMWxQU0ptYkhWMGRHVnlSMkZwYmlJZwoJYVc1a1pYZzlJakUySWlCMllXeDFaVDBpTUNJdlBq
+        eHdZWEpoYlNCdVlXMWxQU0pKVW5ObGJHVmpkR1ZrSWlCcGJtUmwKCWVEMGlNVGNpSUhaaGJIVmxQU0l3SWk4K1BIQmhjbUZ0SUc1aGJXVTlJbkpoYm1SdmJVUjVibUZ0
+        YVdNaUlHbHVaR1Y0CglQU0l4T0NJZ2RtRnNkV1U5SWpBdU1qY3lOekkzTWpneElpOCtQSEJoY21GdElHNWhiV1U5SW1SNWJtRnRhV05RYVhSagoJYUNJZ2FXNWtaWGc5
+        SWpFNUlpQjJZV3gxWlQwaU1DNHlNell5TWpBME56a2lMejQ4Y0dGeVlXMGdibUZ0WlQwaVlYUjAKCVlXTnJWSGx3WlNJZ2FXNWtaWGc5SWpJd0lpQjJZV3gxWlQwaU1D
+        NDRNakF3TURBd05USWlMejQ4Y0dGeVlXMGdibUZ0CglaVDBpY21Wc1ZHbHRaU0lnYVc1a1pYZzlJakl4SWlCMllXeDFaVDBpTUNJdlBqeHdZWEpoYlNCdVlXMWxQU0pt
+        YjNKdAoJWVc1MElpQnBibVJsZUQwaU1qSWlJSFpoYkhWbFBTSXdJaTgrUEhCaGNtRnRJRzVoYldVOUltTnZiWEJ5WlhOemIzSWkKCUlHbHVaR1Y0UFNJeU15SWdkbUZz
+        ZFdVOUlqQXVOU0l2UGp4d1lYSmhiU0J1WVcxbFBTSnRiMlJoYkZKbGMwZGhhVzRpCglJR2x1WkdWNFBTSXlOQ0lnZG1Gc2RXVTlJakF1TlNJdlBqeHdZWEpoYlNCdVlX
+        MWxQU0ppY21WaGRHaE9iMmx6WlVkaAoJYVc0aUlHbHVaR1Y0UFNJeU5TSWdkbUZzZFdVOUlqQXVOVEF6T1RNM01EQTJJaTgrUEhCaGNtRnRJRzVoYldVOUltdGwKCWVV
+        NXZhWE5sUjJGcGJpSWdhVzVrWlhnOUlqSTJJaUIyWVd4MVpUMGlNQzQxTURNNU16Y3dNRFlpTHo0OGNHRnlZVzBnCglibUZ0WlQwaVNHRnliVlJ5WVc1eklpQnBibVJs
+        ZUQwaU1qY2lJSFpoYkhWbFBTSXdMalV3TURBd01EQTJJaTgrUEhCaAoJY21GdElHNWhiV1U5SW5CdmNuUmhiV1Z1ZEc5RGRISnNJaUJwYm1SbGVEMGlNamdpSUhaaGJI
+        VmxQU0l3TGpneU1EQXcKCU1EQTFNaUl2UGp4d1lYSmhiU0J1WVcxbFBTSnlZVzF3VkdsdFpTSWdhVzVrWlhnOUlqSTVJaUIyWVd4MVpUMGlNQzQxCglJaTgrUEhCaGNt
+        RnRJRzVoYldVOUltMWhlRkJ2Y25ScGJXVWlJR2x1WkdWNFBTSXpNQ0lnZG1Gc2RXVTlJakFpTHo0OAoJY0dGeVlXMGdibUZ0WlQwaWRtVnNVRzl5ZEVkaGFXNGlJR2x1
+        WkdWNFBTSXpNU0lnZG1Gc2RXVTlJakF1TlNJdlBqeHcKCVlYSmhiU0J1WVcxbFBTSmhkWFJ2Ulhod2NsQnZjblJoYlNJZ2FXNWtaWGc5SWpNeUlpQjJZV3gxWlQwaU1D
+        NDFJaTgrCglQSEJoY21GdElHNWhiV1U5SW5acFluSmhkRzlTWVhSbFVtRnVaQ0lnYVc1a1pYZzlJak16SWlCMllXeDFaVDBpTUNJdgoJUGp4d1lYSmhiU0J1WVcxbFBT
+        SnZkbVZ5WW14dmQxUm9jbVZ6YUNJZ2FXNWtaWGc5SWpNMElpQjJZV3gxWlQwaU1DNDEKCUlpOCtQSEJoY21GdElHNWhiV1U5SW1WNGNISmxjM05wYjI1UVpXUmhiRlI1
+        Y0dVaUlHbHVaR1Y0UFNJek5TSWdkbUZzCglkV1U5SWpBdU16QXdNREF3TURFeUlpOCtQSEJoY21GdElHNWhiV1U5SW5CaGJuQnZkRlI1Y0dVaUlHbHVaR1Y0UFNJegoJ
+        TmlJZ2RtRnNkV1U5SWpBaUx6NDhjR0Z5WVcwZ2JtRnRaVDBpWTJoeWIyMWhkR2xqVDI1UFptWWlJR2x1WkdWNFBTSXoKCU55SWdkbUZzZFdVOUlqRWlMejQ4Y0dGeVlX
+        MGdibUZ0WlQwaWRtVnNSWGh3Y2s5dVQyWm1JaUJwYm1SbGVEMGlNemdpCglJSFpoYkhWbFBTSXdJaTgrUEhCaGNtRnRJRzVoYldVOUltVjRjSEpsYzNOcGIyNURReUln
+        YVc1a1pYZzlJak01SWlCMgoJWVd4MVpUMGlNQzQ1T1RJeE9EYzFJaTgrUEhCaGNtRnRJRzVoYldVOUluWnBZbkpoZEc5RVpYQjBhRU5ESWlCcGJtUmwKCWVEMGlOREFp
+        SUhaaGJIVmxQU0l4SWk4K1BIQmhjbUZ0SUc1aGJXVTlJblpwWW5KaGRHOVNZWFJsUTBNaUlHbHVaR1Y0CglQU0kwTVNJZ2RtRnNkV1U5SWpFaUx6NDhjR0Z5WVcwZ2Jt
+        RnRaVDBpY0c5eWRHRnRaVzUwYjFScGJXVkRReUlnYVc1awoJWlhnOUlqUXlJaUIyWVd4MVpUMGlNQzR3TXpFeU5TSXZQanh3WVhKaGJTQnVZVzFsUFNKb1lYSnRiMjVw
+        WTFOMGNuVmoKCWRIVnlaVU5ESWlCcGJtUmxlRDBpTkRNaUlIWmhiSFZsUFNJd0xqRTNPVFk0TnpVaUx6NDhjR0Z5WVcwZ2JtRnRaVDBpCgljM1ZpU0dGeWJXOXVhV056
+        UTBNaUlHbHVaR1Y0UFNJME5DSWdkbUZzZFdVOUlqQXVNVFE0TkRNM05TSXZQanh3WVhKaAoJYlNCdVlXMWxQU0puY205M2JFTkRJaUJwYm1SbGVEMGlORFVpSUhaaGJI
+        VmxQU0l3TGpFMU5qSTFJaTgrUEhCaGNtRnQKCUlHNWhiV1U5SW1ac2RYUjBaWEpVYjI1bmRXVkRReUlnYVc1a1pYZzlJalEySWlCMllXeDFaVDBpTVNJdlBqeHdZWEpo
+        CgliU0J1WVcxbFBTSmljbVZoZEdoT2IybHpaVU5ESWlCcGJtUmxlRDBpTkRjaUlIWmhiSFZsUFNJd0xqRTROelVpTHo0OAoJY0dGeVlXMGdibUZ0WlQwaWEyVjVUbTlw
+        YzJWRFF5SWdhVzVrWlhnOUlqUTRJaUIyWVd4MVpUMGlNQzR3TmpJMUlpOCsKCVBIQmhjbUZ0SUc1aGJXVTlJbTkyWlhKaWJHOTNVM2RwZEdOb1EwTWlJR2x1WkdWNFBT
+        STBPU0lnZG1Gc2RXVTlJakF1CglORGt5TVRnM05TSXZQanh3WVhKaGJTQnVZVzFsUFNKbVlXeHNaRzkzYmxOM2FYUmphRU5ESWlCcGJtUmxlRDBpTlRBaQoJSUhaaGJI
+        VmxQU0l4SWk4K1BIQmhjbUZ0SUc1aGJXVTlJa1I1Ym1GdGFXTlFhWFJqYUVORElpQnBibVJsZUQwaU5URWkKCUlIWmhiSFZsUFNJd0xqQTFORFk0TnpVaUx6NDhjR0Z5
+        WVcwZ2JtRnRaVDBpYTNOUFkzUlVjbUZ6Y0NJZ2FXNWtaWGc5CglJalV6SWlCMllXeDFaVDBpTUNJdlBqeHdZWEpoYlNCdVlXMWxQU0p0YVdOeWIzUjFibWx1WjBORElp
+        QnBibVJsZUQwaQoJTlRRaUlIWmhiSFZsUFNJd0xqSXpORE0zTlNJdlBqeHdZWEpoYlNCdVlXMWxQU0p0YVdOeWIzUjFibWx1WnpBaUlHbHUKCVpHVjRQU0kxTlNJZ2Rt
+        RnNkV1U5SWpBdU1EZ3pNek16TXpNMU9DSXZQanh3WVhKaGJTQnVZVzFsUFNKdGFXTnliM1IxCglibWx1WnpFaUlHbHVaR1Y0UFNJMU5pSWdkbUZzZFdVOUlqQXVNRGd6
+        TXpNek16TTFPQ0l2UGp4d1lYSmhiU0J1WVcxbAoJUFNKdGFXTnliM1IxYm1sdVp6SWlJR2x1WkdWNFBTSTFOeUlnZG1Gc2RXVTlJakF1TURnek16TXpNek0xT0NJdlBq
+        eHcKCVlYSmhiU0J1WVcxbFBTSnRhV055YjNSMWJtbHVaek1pSUdsdVpHVjRQU0kxT0NJZ2RtRnNkV1U5SWpBdU1EZ3pNek16CglNek0xT0NJdlBqeHdZWEpoYlNCdVlX
+        MWxQU0p0YVdOeWIzUjFibWx1WnpRaUlHbHVaR1Y0UFNJMU9TSWdkbUZzZFdVOQoJSWpBdU1EZ3pNek16TXpNMU9DSXZQanh3WVhKaGJTQnVZVzFsUFNKdGFXTnliM1Ix
+        Ym1sdVp6VWlJR2x1WkdWNFBTSTIKCU1DSWdkbUZzZFdVOUlqQXVNRGd6TXpNek16TTFPQ0l2UGp4d1lYSmhiU0J1WVcxbFBTSnRhV055YjNSMWJtbHVaellpCglJR2x1
+        WkdWNFBTSTJNU0lnZG1Gc2RXVTlJakF1TURnek16TXpNek0xT0NJdlBqeHdZWEpoYlNCdVlXMWxQU0p0YVdOeQoJYjNSMWJtbHVaemNpSUdsdVpHVjRQU0kyTWlJZ2Rt
+        RnNkV1U5SWpBdU1EZ3pNek16TXpNMU9DSXZQanh3WVhKaGJTQnUKCVlXMWxQU0p0YVdOeWIzUjFibWx1WnpnaUlHbHVaR1Y0UFNJMk15SWdkbUZzZFdVOUlqQXVNRGd6
+        TXpNek16TTFPQ0l2CglQanh3WVhKaGJTQnVZVzFsUFNKdGFXTnliM1IxYm1sdVp6a2lJR2x1WkdWNFBTSTJOQ0lnZG1Gc2RXVTlJakF1TURnegoJTXpNek16TTFPQ0l2
+        UGp4d1lYSmhiU0J1WVcxbFBTSnRhV055YjNSMWJtbHVaekV3SWlCcGJtUmxlRDBpTmpVaUlIWmgKCWJIVmxQU0l3TGpBNE16TXpNek16TlRnaUx6NDhjR0Z5WVcwZ2Jt
+        RnRaVDBpYldsamNtOTBkVzVwYm1jeE1TSWdhVzVrCglaWGc5SWpZMklpQjJZV3gxWlQwaU1DNHdPRE16TXpNek16VTRJaTgrUEhCaGNtRnRJRzVoYldVOUlsUmxiWEJs
+        Y21GdAoJSWlCcGJtUmxlRDBpTmpjaUlIWmhiSFZsUFNJd0xqVWlMejQ4Y0dGeVlXMGdibUZ0WlQwaVFYUjBZV05yVTNSaGNuUWkKCUlHbHVaR1Y0UFNJMk9DSWdkbUZz
+        ZFdVOUlqQXVOU0l2UGp4d1lYSmhiU0J1WVcxbFBTSnRkRU5mVDI1UFptWWlJR2x1CglaR1Y0UFNJMk9TSWdkbUZzZFdVOUlqQWlMejQ4Y0dGeVlXMGdibUZ0WlQwaWJY
+        UkRVMTlQYms5bVppSWdhVzVrWlhnOQoJSWpjd0lpQjJZV3gxWlQwaU1DSXZQanh3WVhKaGJTQnVZVzFsUFNKdGRFUmZUMjVQWm1ZaUlHbHVaR1Y0UFNJM01TSWcKCWRt
+        RnNkV1U5SWpBaUx6NDhjR0Z5WVcwZ2JtRnRaVDBpYlhSRVUxOVBiazltWmlJZ2FXNWtaWGc5SWpjeUlpQjJZV3gxCglaVDBpTUNJdlBqeHdZWEpoYlNCdVlXMWxQU0p0
+        ZEVWZlQyNVBabVlpSUdsdVpHVjRQU0kzTXlJZ2RtRnNkV1U5SWpBaQoJTHo0OGNHRnlZVzBnYm1GdFpUMGliWFJHWDA5dVQyWm1JaUJwYm1SbGVEMGlOelFpSUhaaGJI
+        VmxQU0l3SWk4K1BIQmgKCWNtRnRJRzVoYldVOUltMTBSbE5mVDI1UFptWWlJR2x1WkdWNFBTSTNOU0lnZG1Gc2RXVTlJakFpTHo0OGNHRnlZVzBnCglibUZ0WlQwaWJY
+        UkhYMDl1VDJabUlpQnBibVJsZUQwaU56WWlJSFpoYkhWbFBTSXdJaTgrUEhCaGNtRnRJRzVoYldVOQoJSW0xMFIxTmZUMjVQWm1ZaUlHbHVaR1Y0UFNJM055SWdkbUZz
+        ZFdVOUlqQWlMejQ4Y0dGeVlXMGdibUZ0WlQwaWJYUkIKCVgwOXVUMlptSWlCcGJtUmxlRDBpTnpnaUlIWmhiSFZsUFNJd0lpOCtQSEJoY21GdElHNWhiV1U5SW0xMFFW
+        TmZUMjVQCglabVlpSUdsdVpHVjRQU0kzT1NJZ2RtRnNkV1U5SWpBaUx6NDhjR0Z5WVcwZ2JtRnRaVDBpYlhSQ1gwOXVUMlptSWlCcAoJYm1SbGVEMGlPREFpSUhaaGJI
+        VmxQU0l3SWk4K1BIQmhjbUZ0SUc1aGJXVTlJbTFoYVc1V2IyeDFiV1ZEUXlJZ2FXNWsKCVpYZzlJamd4SWlCMllXeDFaVDBpTUM0d05EWTROelVpTHo0OGNHRnlZVzBn
+        Ym1GdFpUMGljR0Z1VUc5MFEwTWlJR2x1CglaR1Y0UFNJNE1pSWdkbUZzZFdVOUlqQXVNRGN3TXpFeU5TSXZQanh3WVhKaGJTQnVZVzFsUFNKeVpYWmxjbUpOYVhoRAoJ
+        UXlJZ2FXNWtaWGc5SWpneklpQjJZV3gxWlQwaU1DNDNNRE14TWpVaUx6NDhjR0Z5WVcwZ2JtRnRaVDBpUWtOdGIyUmwKCUlpQnBibVJsZUQwaU9EUWlJSFpoYkhWbFBT
+        SXdJaTgrUEhCaGNtRnRJRzVoYldVOUlrSkRYMEYwYTFObGJuTWlJR2x1CglaR1Y0UFNJNE5TSWdkbUZzZFdVOUlqQXVNek16TXpNek16UXpJaTgrUEhCaGNtRnRJRzVo
+        YldVOUltWnZjbTFoYm5SRAoJUXlJZ2FXNWtaWGc5SWpnMklpQjJZV3gxWlQwaU1DNDFOekF6TVRJMUlpOCtQSEJoY21GdElHNWhiV1U5SW14bFoyRjAKCWIwMXZaR1Vp
+        SUdsdVpHVjRQU0k0TnlJZ2RtRnNkV1U5SWpFaUx6NDhjR0Z5WVcwZ2JtRnRaVDBpYkdWbllYUnZUVzlrCglaVU5ESWlCcGJtUmxlRDBpT0RnaUlIWmhiSFZsUFNJeElp
+        OCtQSEJoY21GdElHNWhiV1U5SW10elRXbGthVU5vSWlCcAoJYm1SbGVEMGlPVEFpSUhaaGJIVmxQU0l4SWk4K1BIQmhjbUZ0SUc1aGJXVTlJbk4xYzNSaGFXNURReUln
+        YVc1a1pYZzkKCUlqa3hJaUIyWVd4MVpUMGlNU0l2UGp4d1lYSmhiU0J1WVcxbFBTSmtkWEJzYVdOaGRHVlFVR3hoZVdWeUlpQnBibVJsCgllRDBpT1RJaUlIWmhiSFZs
+        UFNJd0lpOCtQSEJoY21GdElHNWhiV1U5SWsxSlJFbDJZV3hOYVc0d0lpQnBibVJsZUQwaQoJT1RNaUlIWmhiSFZsUFNJd0lpOCtQSEJoY21GdElHNWhiV1U5SWsxSlJF
+        bDJZV3hOYVc0eElpQnBibVJsZUQwaU9UUWkKCUlIWmhiSFZsUFNJd0lpOCtQSEJoY21GdElHNWhiV1U5SWsxSlJFbDJZV3hOYVc0eUlpQnBibVJsZUQwaU9UVWlJSFpo
+        CgliSFZsUFNJd0lpOCtQSEJoY21GdElHNWhiV1U5SWsxSlJFbDJZV3hOYVc0eklpQnBibVJsZUQwaU9UWWlJSFpoYkhWbAoJUFNJd0lpOCtQSEJoY21GdElHNWhiV1U5
+        SWsxSlJFbDJZV3hOYVc0MElpQnBibVJsZUQwaU9UY2lJSFpoYkhWbFBTSXcKCUlpOCtQSEJoY21GdElHNWhiV1U5SWsxSlJFbDJZV3hOYVc0MUlpQnBibVJsZUQwaU9U
+        Z2lJSFpoYkhWbFBTSXdJaTgrCglQSEJoY21GdElHNWhiV1U5SWsxSlJFbDJZV3hOYVc0MklpQnBibVJsZUQwaU9Ua2lJSFpoYkhWbFBTSXdJaTgrUEhCaAoJY21GdElH
+        NWhiV1U5SWsxSlJFbDJZV3hOYVc0M0lpQnBibVJsZUQwaU1UQXdJaUIyWVd4MVpUMGlNQ0l2UGp4d1lYSmgKCWJTQnVZVzFsUFNKTlNVUkpkbUZzVFdsdU9DSWdhVzVr
+        WlhnOUlqRXdNU0lnZG1Gc2RXVTlJakFpTHo0OGNHRnlZVzBnCglibUZ0WlQwaVRVbEVTWFpoYkUxcGJqa2lJR2x1WkdWNFBTSXhNRElpSUhaaGJIVmxQU0l3SWk4K1BI
+        QmhjbUZ0SUc1aAoJYldVOUlrMUpSRWwyWVd4TmFXNHhNQ0lnYVc1a1pYZzlJakV3TXlJZ2RtRnNkV1U5SWpBaUx6NDhjR0Z5WVcwZ2JtRnQKCVpUMGlUVWxFU1haaGJF
+        MXBiakV4SWlCcGJtUmxlRDBpTVRBMElpQjJZV3gxWlQwaU1DSXZQanh3WVhKaGJTQnVZVzFsCglQU0pOU1VSSmRtRnNUV2x1TVRJaUlHbHVaR1Y0UFNJeE1EVWlJSFpo
+        YkhWbFBTSXdJaTgrUEhCaGNtRnRJRzVoYldVOQoJSWsxSlJFbDJZV3hOYVc0eE15SWdhVzVrWlhnOUlqRXdOaUlnZG1Gc2RXVTlJakFpTHo0OGNHRnlZVzBnYm1GdFpU
+        MGkKCVRVbEVTWFpoYkUxcGJqRTBJaUJwYm1SbGVEMGlNVEEzSWlCMllXeDFaVDBpTUNJdlBqeHdZWEpoYlNCdVlXMWxQU0pOCglTVVJKZG1Gc1RXRjRNQ0lnYVc1a1pY
+        ZzlJakV4TUNJZ2RtRnNkV1U5SWpFaUx6NDhjR0Z5WVcwZ2JtRnRaVDBpVFVsRQoJU1haaGJFMWhlREVpSUdsdVpHVjRQU0l4TVRFaUlIWmhiSFZsUFNJeElpOCtQSEJo
+        Y21GdElHNWhiV1U5SWsxSlJFbDIKCVlXeE5ZWGd5SWlCcGJtUmxlRDBpTVRFeUlpQjJZV3gxWlQwaU1TSXZQanh3WVhKaGJTQnVZVzFsUFNKTlNVUkpkbUZzCglUV0Y0
+        TXlJZ2FXNWtaWGc5SWpFeE15SWdkbUZzZFdVOUlqRWlMejQ4Y0dGeVlXMGdibUZ0WlQwaVRVbEVTWFpoYkUxaAoJZURRaUlHbHVaR1Y0UFNJeE1UUWlJSFpoYkhWbFBT
+        SXhJaTgrUEhCaGNtRnRJRzVoYldVOUlrMUpSRWwyWVd4TllYZzEKCUlpQnBibVJsZUQwaU1URTFJaUIyWVd4MVpUMGlNU0l2UGp4d1lYSmhiU0J1WVcxbFBTSk5TVVJK
+        ZG1Gc1RXRjROaUlnCglhVzVrWlhnOUlqRXhOaUlnZG1Gc2RXVTlJakVpTHo0OGNHRnlZVzBnYm1GdFpUMGlUVWxFU1haaGJFMWhlRGNpSUdsdQoJWkdWNFBTSXhNVGNp
+        SUhaaGJIVmxQU0l4SWk4K1BIQmhjbUZ0SUc1aGJXVTlJazFKUkVsMllXeE5ZWGc0SWlCcGJtUmwKCWVEMGlNVEU0SWlCMllXeDFaVDBpTVNJdlBqeHdZWEpoYlNCdVlX
+        MWxQU0pOU1VSSmRtRnNUV0Y0T1NJZ2FXNWtaWGc5CglJakV4T1NJZ2RtRnNkV1U5SWpFaUx6NDhjR0Z5WVcwZ2JtRnRaVDBpVFVsRVNYWmhiRTFoZURFd0lpQnBibVJs
+        ZUQwaQoJTVRJd0lpQjJZV3gxWlQwaU1TSXZQanh3WVhKaGJTQnVZVzFsUFNKTlNVUkpkbUZzVFdGNE1URWlJR2x1WkdWNFBTSXgKCU1qRWlJSFpoYkhWbFBTSXhJaTgr
+        UEhCaGNtRnRJRzVoYldVOUlrMUpSRWwyWVd4TllYZ3hNaUlnYVc1a1pYZzlJakV5CglNaUlnZG1Gc2RXVTlJakVpTHo0OGNHRnlZVzBnYm1GdFpUMGlUVWxFU1haaGJF
+        MWhlREV6SWlCcGJtUmxlRDBpTVRJegoJSWlCMllXeDFaVDBpTVNJdlBqeHdZWEpoYlNCdVlXMWxQU0pOU1VSSmRtRnNUV0Y0TVRRaUlHbHVaR1Y0UFNJeE1qUWkKCUlI
+        WmhiSFZsUFNJeElpOCtQSEJoY21GdElHNWhiV1U5SW5CbGNrNXZkR1ZRYVhSamFFSmxibVJTWVc1blpTSWdhVzVrCglaWGc5SWpFeU55SWdkbUZzZFdVOUlqQXVOREk0
+        TlRjeE5ETXpJaTgrUEM5d2NtOW5jbUZ0UGp3dmMzZGhiVDRBCgk8L2RhdGE+Cgk8a2V5Pm1hbnVmYWN0dXJlcjwva2V5PgoJPGludGVnZXI+MTM5ODIyNzI3NzwvaW50
+        ZWdlcj4KCTxrZXk+bmFtZTwva2V5PgoJPHN0cmluZz5VbnRpdGxlZDwvc3RyaW5nPgoJPGtleT5zdWJ0eXBlPC9rZXk+Cgk8aW50ZWdlcj4xMzk4ODk2NzI0PC9pbnRl
+        Z2VyPgoJPGtleT50eXBlPC9rZXk+Cgk8aW50ZWdlcj4xNjM1MDg1Njg1PC9pbnRlZ2VyPgoJPGtleT52ZXJzaW9uPC9rZXk+Cgk8aW50ZWdlcj4wPC9pbnRlZ2VyPgo8
+        L2RpY3Q+CjwvcGxpc3Q+CgEAAAAAAAAAAAA=
+      >
+      FLOATPOS 0 0 0 0
+      FXID {74E904A4-F3A4-FE4B-A74B-067874316F24}
+      WAK 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 6.5765625
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {2927B23E-AC7B-8F40-BC43-24C3913245B2}
+      IID 3
+      NAME "01-Sax Linnstrument-Recorded MIDI"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {05B28AF3-3CC2-0441-B411-8995B7363C92}
+      RECPASS 3
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {D940FF46-215D-D440-A055-76339D1A9088}
+        E 1910 e0 00 40
+        E 2 b0 4a 41
+        E 1 a0 3c 00
+        E 2 90 3c 1a
+        E 21 b0 4a 3c
+        E 1 a0 3c 10
+        E 23 e0 68 3f
+        E 1 a0 3c 19
+        E 11 e0 00 40
+        E 1 b0 4a 3d
+        E 11 a0 3c 22
+        E 12 b0 4a 40
+        E 11 a0 3c 2a
+        E 12 b0 4a 44
+        E 12 e0 18 40
+        E 1 a0 3c 33
+        E 11 b0 4a 49
+        E 12 e0 30 40
+        E 1 a0 3c 3a
+        E 11 b0 4a 4c
+        E 11 e0 48 40
+        E 2 a0 3c 3e
+        E 10 b0 4a 4f
+        E 12 e0 60 40
+        E 1 a0 3c 41
+        E 10 b0 4a 52
+        E 12 e0 78 40
+        E 2 a0 3c 43
+        E 10 b0 4a 53
+        E 12 e0 60 40
+        E 1 a0 3c 45
+        E 22 b0 4a 54
+        E 1 a0 3c 46
+        E 22 e0 48 40
+        E 2 b0 4a 55
+        E 1 a0 3c 47
+        E 21 e0 30 40
+        E 1 a0 3c 49
+        E 11 b0 4a 56
+        E 12 e0 18 40
+        E 1 a0 3c 4c
+        E 10 b0 4a 58
+        E 12 a0 3c 4f
+        E 11 b0 4a 59
+        E 12 e0 00 40
+        E 2 a0 3c 50
+        E 10 b0 4a 57
+        E 23 b0 4a 56
+        E 1 a0 3c 4f
+        E 22 b0 4a 54
+        E 2 a0 3c 4e
+        E 22 b0 4a 53
+        E 1 a0 3c 4d
+        E 22 a0 3c 4c
+        E 24 b0 4a 52
+        E 46 a0 3c 4b
+        E 23 b0 4a 51
+        E 2 a0 3c 4a
+        E 22 b0 4a 52
+        E 1 a0 3c 49
+        E 22 b0 4a 51
+        E 1 a0 3c 4b
+        E 17 e0 00 40
+        E 2 b0 4a 5d
+        E 2 a0 3d 00
+        E 1 90 3d 21
+        E 17 a0 3c 4a
+        E 6 b0 4a 59
+        E 1 a0 3d 08
+        E 19 a0 3c 48
+        E 6 a0 3d 18
+        E 13 b0 4a 5a
+        E 7 a0 3c 41
+        E 6 a0 3d 23
+        E 21 a0 3c 39
+        E 6 b0 4a 5b
+        E 2 a0 3d 2e
+        E 19 a0 3c 2e
+        E 6 b0 4a 5a
+        E 1 a0 3d 36
+        E 20 a0 3c 23
+        E 5 b0 4a 5e
+        E 2 a0 3d 3f
+        E 19 a0 3c 17
+        E 6 b0 4a 60
+        E 1 a0 3d 47
+        E 19 a0 3c 10
+        E 5 b0 4a 62
+        E 2 a0 3d 4c
+        E 18 a0 3c 00
+        E 5 80 3c 13
+        E 5 e0 00 40
+        E 2 b0 4a 63
+        E 1 a0 3d 51
+        E 16 b0 4a 64
+        E 2 a0 3d 52
+        E 22 b0 4a 65
+        E 12 a0 3d 55
+        E 23 b0 4a 66
+        E 2 a0 3d 54
+        E 21 a0 3d 53
+        E 24 b0 4a 67
+        E 11 a0 3d 52
+        E 11 b0 4a 66
+        E 24 b0 4a 67
+        E 2 a0 3d 51
+        E 56 b0 4a 68
+        E 23 b0 4a 67
+        E 2 a0 3d 52
+        E 33 a0 3d 51
+        E 35 b0 4a 68
+        E 2 a0 3d 50
+        E 21 b0 4a 67
+        E 2 a0 3d 4f
+        E 22 a0 3d 4d
+        E 12 e0 00 40
+        E 2 b0 4a 72
+        E 2 a0 3e 00
+        e 1 90 3e 14
+        E 11 a0 3d 4b
+        e 12 b0 4a 71
+        E 1 a0 3e 0d
+        E 14 a0 3d 45
+        e 11 b0 4a 76
+        E 2 a0 3e 19
+        E 13 a0 3d 40
+        e 11 b0 4a 78
+        E 2 a0 3e 24
+        E 14 a0 3d 3a
+        e 11 b0 4a 79
+        E 1 a0 3e 2d
+        E 14 a0 3d 36
+        e 12 b0 4a 7b
+        E 0 a0 3e 35
+        E 15 a0 3d 33
+        e 11 b0 4a 7d
+        E 1 a0 3e 3d
+        E 14 a0 3d 2d
+        E 11 a0 3e 45
+        E 16 a0 3d 28
+        e 10 b0 4a 7e
+        E 1 a0 3e 4c
+        E 14 a0 3d 24
+        E 11 a0 3e 52
+        E 15 a0 3d 20
+        E 11 a0 3e 57
+        e 14 b0 4a 7f
+        E 2 a0 3d 1e
+        E 10 a0 3e 58
+        E 16 a0 3d 18
+        E 24 a0 3e 57
+        E 2 a0 3d 13
+        E 24 a0 3e 56
+        E 2 a0 3d 0e
+        E 24 a0 3e 55
+        E 2 a0 3d 0c
+        E 24 a0 3e 54
+        E 3 a0 3d 0a
+        E 23 a0 3e 55
+        E 2 a0 3d 09
+        E 26 a0 3d 04
+        E 11 a0 3e 54
+        E 2 a0 3d 00
+        E 5 80 3d 15
+        e 6 e0 00 40
+        E 12 a0 3e 51
+        E 23 a0 3e 50
+        E 24 a0 3e 4c
+        E 23 a0 3e 4b
+        E 58 a0 3e 4a
+        E 24 a0 3e 46
+        E 24 a0 3e 41
+        e 16 e0 00 40
+        e 1 b0 4a 5b
+        E 2 a0 3f 00
+        E 2 90 3f 18
+        E 7 a0 3e 38
+        e 16 b0 4a 59
+        E 2 a0 3f 0a
+        E 9 a0 3e 2c
+        e 16 b0 4a 5e
+        E 2 a0 3f 15
+        E 9 a0 3e 20
+        e 16 b0 4a 61
+        E 2 a0 3f 1f
+        E 8 a0 3e 15
+        e 16 b0 4a 66
+        E 1 a0 3f 26
+        E 9 a0 3e 0f
+        E 13 a0 3e 00
+        e 5 80 3e 08
+        E 5 e0 00 40
+        E 2 b0 4a 68
+        E 1 a0 3f 2c
+        E 13 b0 4a 6b
+        E 2 a0 3f 33
+        E 23 b0 4a 6c
+        E 2 a0 3f 36
+        E 21 a0 3f 38
+        E 24 b0 4a 6d
+        E 1 a0 3f 3b
+        E 22 a0 3f 3c
+        E 13 b0 4a 6e
+        E 11 a0 3f 3d
+        E 12 b0 4a 70
+        E 11 a0 3f 3e
+        E 36 b0 4a 72
+        E 23 a0 3f 3d
+        E 23 b0 4a 71
+        E 2 a0 3f 3c
+        E 22 b0 4a 70
+        E 2 a0 3f 3b
+        E 22 b0 4a 72
+        E 1 a0 3f 3c
+        E 22 b0 4a 74
+        E 12 a0 3f 3e
+        E 12 b0 4a 78
+        E 12 a0 3f 40
+        E 11 b0 4a 7b
+        E 12 a0 3f 41
+        E 12 b0 4a 7d
+        E 11 a0 3f 40
+        E 12 b0 4a 7e
+        E 12 a0 3f 3c
+        E 12 b0 4a 7f
+        E 8 e0 00 40
+        E 2 b0 4a 1e
+        E 2 a0 41 00
+        E 1 90 41 1a
+        E 6 a0 3f 36
+        E 18 b0 4a 1d
+        E 2 a0 41 15
+        E 3 a0 3f 29
+        E 22 b0 4a 20
+        E 2 a0 41 22
+        E 3 a0 3f 16
+        E 22 b0 4a 23
+        E 1 a0 41 2b
+        E 3 a0 3f 00
+        E 5 80 3f 1a
+        E 6 e0 00 40
+        E 9 b0 4a 24
+        E 2 a0 41 33
+        E 22 b0 4a 27
+        E 2 a0 41 3a
+        E 22 b0 4a 2a
+        E 1 a0 41 3f
+        E 22 a0 41 43
+        E 12 b0 4a 2c
+        E 11 a0 41 47
+        E 12 b0 4a 2b
+        E 12 a0 41 48
+        E 12 b0 4a 29
+        E 11 a0 41 47
+        E 12 b0 4a 28
+        E 12 a0 41 45
+        E 12 b0 4a 26
+        E 12 a0 41 44
+        E 35 b0 4a 27
+        E 23 b0 4a 26
+        E 35 b0 4a 27
+        E 24 b0 4a 26
+        E 1 a0 41 45
+        E 22 b0 4a 25
+        E 1 a0 41 47
+        E 34 a0 41 48
+        E 23 a0 41 47
+        E 23 b0 4a 24
+        E 24 b0 4a 25
+        E 35 a0 41 48
+        E 11 b0 4a 24
+        E 12 a0 41 47
+        E 11 b0 4a 26
+        E 12 a0 41 48
+        E 12 b0 4a 25
+        E 12 a0 41 47
+        E 11 b0 4a 27
+        E 12 a0 41 45
+        E 12 b0 4a 29
+        E 23 b0 4a 26
+        E 2 a0 41 40
+        E 6 e0 00 40
+        E 2 b0 4a 1c
+        E 1 a0 42 00
+        E 1 90 42 21
+        E 6 a0 41 3c
+        E 18 b0 4a 1d
+        E 2 a0 42 10
+        E 5 a0 41 36
+        E 20 b0 4a 1e
+        E 2 a0 42 18
+        E 5 a0 41 2e
+        E 20 b0 4a 20
+        E 2 a0 42 1f
+        E 5 a0 41 28
+        E 20 b0 4a 22
+        E 2 a0 42 25
+        E 5 a0 41 22
+        E 20 a0 42 2a
+        E 7 a0 41 1c
+        E 6 b0 4a 23
+        E 14 a0 42 2f
+        E 7 a0 41 18
+        E 6 b0 4a 24
+        E 14 a0 42 34
+        E 6 a0 41 13
+        E 7 b0 4a 23
+        E 13 a0 42 38
+        E 7 a0 41 0c
+        E 7 b0 4a 22
+        E 13 a0 42 3a
+        E 7 a0 41 07
+        E 7 b0 4a 23
+        E 13 a0 42 3c
+        E 5 a0 41 00
+        E 6 80 41 19
+        E 5 e0 00 40
+        E 8 a0 42 3e
+        E 25 a0 42 3d
+        E 24 a0 42 3c
+        E 23 b0 4a 24
+        E 12 a0 42 3d
+        E 12 b0 4a 26
+        E 23 b0 4a 27
+        E 2 a0 42 3c
+        E 22 b0 4a 28
+        E 1 a0 42 3b
+        E 22 b0 4a 29
+        E 24 b0 4a 2a
+        E 23 a0 42 3c
+        E 24 a0 42 3e
+        E 12 b0 4a 2c
+        E 23 b0 4a 2b
+        E 2 a0 42 3d
+        E 23 b0 4a 2c
+        E 1 a0 42 3c
+        E 10 e0 00 40
+        E 2 b0 4a 39
+        E 2 a0 43 00
+        E 1 90 43 18
+        E 6 a0 42 3b
+        E 18 b0 4a 3c
+        E 1 a0 43 0c
+        E 2 a0 42 37
+        E 23 b0 4a 39
+        E 2 a0 43 15
+        E 1 a0 42 32
+        E 24 b0 4a 36
+        E 2 a0 43 1f
+        E 1 a0 42 29
+        E 24 a0 43 27
+        E 2 a0 42 20
+        E 12 b0 4a 38
+        E 13 a0 43 2e
+        E 2 a0 42 19
+        E 11 b0 4a 3b
+        E 13 a0 43 34
+        E 3 a0 42 14
+        E 24 b0 4a 3d
+        E 1 a0 43 3a
+        E 2 a0 42 10
+        E 23 b0 4a 3f
+        E 2 a0 43 3f
+        E 2 a0 42 0d
+        E 23 b0 4a 41
+        E 2 a0 43 41
+        E 1 a0 42 0a
+        E 24 b0 4a 42
+        E 2 a0 42 07
+        E 11 a0 43 40
+        E 13 b0 4a 46
+        E 1 a0 42 00
+        E 5 80 42 0d
+        E 6 e0 00 40
+        E 2 a0 43 3f
+        E 11 b0 4a 49
+        E 11 a0 43 43
+        E 13 b0 4a 4c
+        E 12 a0 43 42
+        E 12 b0 4a 4f
+        E 24 b0 4a 52
+        E 2 a0 43 41
+        E 23 b0 4a 54
+        E 1 a0 43 40
+        E 22 b0 4a 55
+        E 1 a0 43 42
+        E 22 b0 4a 56
+        E 24 b0 4a 5a
+        E 23 b0 4a 5d
+        E 24 b0 4a 62
+        E 1 a0 43 40
+        E 22 b0 4a 68
+        E 2 a0 43 3b
+        E 23 e0 18 40
+        E 1 b0 4a 69
+        E 2 a0 43 38
+        E 21 a0 43 33
+        E 4 e0 00 40
+        E 2 b0 4a 08
+        E 1 a0 44 00
+        E 2 90 44 19
+        E 7 a0 43 32
+        E 17 b0 4a 07
+        E 1 a0 44 11
+        E 9 a0 43 2f
+        E 17 b0 4a 09
+        E 1 a0 44 1e
+        E 9 a0 43 2a
+        E 17 b0 4a 08
+        E 1 a0 44 2a
+        E 9 a0 43 22
+        E 16 b0 4a 07
+        E 1 a0 44 34
+        E 23 a0 44 3d
+        E 12 b0 4a 09
+        E 9 a0 43 00
+        E 6 80 43 1a
+        E 5 e0 00 40
+        E 1 a0 44 45
+        E 3 b0 4a 0a
+        E 11 a0 44 4b
+        E 24 b0 4a 0b
+        E 1 a0 44 4f
+        E 22 b0 4a 0e
+        E 1 a0 44 52
+        E 22 b0 4a 10
+        E 1 a0 44 53
+        E 22 b0 4a 13
+        E 2 a0 44 52
+        E 21 b0 4a 15
+        E 2 a0 44 51
+        E 21 b0 4a 19
+        E 2 a0 44 4f
+        E 22 b0 4a 1a
+        E 2 a0 44 4d
+        E 22 b0 4a 1b
+        E 1 a0 44 4c
+        E 22 b0 4a 1d
+        E 1 a0 44 4b
+        E 22 b0 4a 24
+        E 2 a0 44 48
+        E 21 b0 4a 27
+        E 2 a0 44 46
+        E 22 b0 4a 2b
+        E 23 b0 4a 2d
+        E 1 a0 44 47
+        E 22 b0 4a 2e
+        E 2 a0 44 48
+        E 22 b0 4a 32
+        E 1 a0 44 47
+        E 22 b0 4a 33
+        E 11 a0 44 46
+        E 12 b0 4a 34
+        E 12 a0 44 44
+        E 12 b0 4a 38
+        E 11 a0 44 41
+        E 9 e0 00 40
+        E 1 b0 4a 33
+        E 2 a0 46 00
+        E 2 90 46 23
+        E 15 a0 44 3b
+        E 8 b0 4a 36
+        E 2 a0 46 12
+        E 17 a0 44 2e
+        E 8 b0 4a 35
+        E 2 a0 46 1b
+        E 17 a0 44 21
+        E 8 b0 4a 33
+        E 2 a0 46 23
+        E 15 a0 44 00
+        E 6 80 44 21
+        E 6 e0 00 40
+        E 1 b0 4a 30
+        E 1 a0 46 28
+        E 20 b0 4a 31
+        E 1 a0 46 2f
+        E 22 b0 4a 32
+        E 2 a0 46 36
+        E 21 b0 4a 34
+        E 2 a0 46 3b
+        E 22 a0 46 3f
+        E 24 b0 4a 35
+        E 1 a0 46 41
+        E 22 a0 46 42
+        E 24 a0 46 43
+        E 46 a0 46 44
+        E 11 b0 4a 36
+        E 24 b0 4a 35
+        E 12 a0 46 43
+        E 23 a0 46 41
+        E 23 a0 46 3f
+        E 24 a0 46 3e
+        E 23 b0 4a 34
+        E 2 a0 46 3d
+        E 22 b0 4a 35
+        E 12 a0 46 3e
+        E 23 a0 46 3f
+        E 35 b0 4a 36
+        E 35 b0 4a 37
+        E 2 a0 46 3e
+        E 22 b0 4a 39
+        E 2 a0 46 3d
+        E 18 e0 00 40
+        E 1 b0 4a 18
+        E 2 a0 47 00
+        E 2 90 47 31
+        E 5 a0 46 38
+        E 18 b0 4a 20
+        E 2 a0 47 1f
+        E 5 a0 46 34
+        E 20 a0 47 28
+        E 7 a0 46 2f
+        E 6 b0 4a 21
+        E 14 a0 47 2f
+        E 6 a0 46 29
+        E 7 b0 4a 27
+        E 14 a0 47 37
+        E 6 a0 46 24
+        E 7 b0 4a 2a
+        E 13 a0 47 3d
+        E 7 a0 46 1c
+        E 20 a0 47 44
+        E 6 a0 46 16
+        E 7 b0 4a 2b
+        E 12 a0 47 4a
+        E 6 a0 46 0e
+        E 7 b0 4a 2c
+        E 6 a0 46 00
+        E 5 80 46 09
+        E 5 e0 00 40
+        E 2 a0 47 4e
+        E 7 b0 4a 2d
+        E 11 a0 47 50
+        E 23 b0 4a 2e
+        E 2 a0 47 4e
+        E 21 b0 4a 2d
+        E 2 a0 47 4c
+        E 22 b0 4a 2e
+        E 2 a0 47 4a
+        E 21 b0 4a 2d
+        E 2 a0 47 49
+        E 22 b0 4a 2f
+        E 1 a0 47 48
+        E 34 b0 4a 31
+        E 11 a0 47 49
+        E 12 b0 4a 2f
+        E 11 a0 47 4b
+        E 12 b0 4a 30
+        E 12 a0 47 4c
+        E 11 b0 4a 2f
+        E 12 a0 47 4e
+        E 12 b0 4a 2d
+        E 23 b0 4a 2f
+        E 23 b0 4a 2d
+        E 23 b0 4a 2e
+        E 2 a0 47 4d
+        E 21 a0 47 4c
+        E 12 b0 4a 2f
+        E 23 a0 47 4b
+        E 12 b0 4a 2e
+        E 11 a0 47 48
+        E 12 b0 4a 30
+        E 12 a0 47 45
+        E 11 b0 4a 33
+        E 12 a0 47 42
+        E 12 b0 4a 34
+        E 13 a0 47 3e
+        E 12 e0 00 40
+        E 1 b0 4a 29
+        E 2 a0 48 00
+        E 1 90 48 2d
+        E 12 a0 47 34
+        E 12 b0 4a 2d
+        E 1 a0 48 12
+        E 14 a0 47 28
+        E 12 b0 4a 31
+        E 1 a0 48 1e
+        E 14 a0 47 1c
+        E 11 b0 4a 35
+        E 2 a0 48 2b
+        E 12 a0 47 00
+        E 6 80 47 1d
+        E 6 e0 00 40
+        E 1 b0 4a 32
+        E 2 a0 48 36
+        E 20 b0 4a 2f
+        E 2 a0 48 3b
+        E 22 a0 48 3e
+        E 24 b0 4a 2d
+        E 1 a0 48 40
+        E 22 b0 4a 2c
+        E 2 a0 48 3f
+        E 21 a0 48 40
+        E 12 b0 4a 2b
+        E 24 b0 4a 2c
+        E 12 a0 48 41
+        E 11 b0 4a 2b
+        E 24 b0 4a 2a
+        E 1 a0 48 42
+        E 22 b0 4a 2b
+        E 2 a0 48 43
+        E 22 a0 48 44
+        E 11 b0 4a 2c
+        E 12 a0 48 46
+        E 23 a0 48 47
+        E 35 b0 4a 2d
+        E 12 a0 48 48
+        E 11 b0 4a 2c
+        E 23 a0 48 49
+        E 12 b0 4a 2b
+        E 12 a0 48 4b
+        E 11 b0 4a 2a
+        E 12 a0 48 4d
+        E 11 b0 4a 2c
+        E 12 a0 48 4f
+        E 12 b0 4a 2a
+        E 11 a0 48 50
+        E 12 b0 4a 29
+        E 23 b0 4a 2a
+        E 23 b0 4a 29
+        E 23 b0 4a 2a
+        E 2 a0 48 4f
+        E 22 b0 4a 2b
+        E 1 a0 48 4e
+        E 22 a0 48 4c
+        E 12 b0 4a 2a
+        E 12 a0 48 49
+        E 22 b0 4a 29
+        E 2 a0 48 46
+        E 22 a0 48 42
+        E 24 a0 48 41
+        E 11 b0 4a 2a
+        E 12 a0 48 40
+        E 12 b0 4a 2b
+        E 12 a0 48 41
+        E 11 b0 4a 2c
+        E 12 a0 48 43
+        E 12 b0 4a 2b
+        E 11 a0 48 45
+        E 12 b0 4a 2a
+        E 12 a0 48 47
+        E 23 a0 48 49
+        E 11 b0 4a 2b
+        E 12 a0 48 4a
+        E 58 b0 4a 2a
+        E 1 a0 48 49
+        E 23 b0 4a 2c
+        E 1 a0 48 44
+        E 22 b0 4a 2d
+        E 2 a0 48 3e
+        E 22 a0 48 3a
+        E 24 b0 4a 2e
+        E 1 a0 48 38
+        E 22 b0 4a 30
+        E 2 a0 48 37
+        E 22 b0 4a 33
+        E 23 b0 4a 36
+        E 12 a0 48 36
+        E 12 b0 4a 38
+        E 24 b0 4a 3a
+        E 12 a0 48 35
+        E 12 b0 4a 3e
+        E 24 b0 4a 40
+        E 11 a0 48 34
+        E 12 b0 4a 46
+        E 12 a0 48 32
+        E 12 b0 4a 4a
+        E 12 a0 48 2e
+        E 12 b0 4a 4b
+        E 4 e0 00 40
+        E 1 b0 4a 05
+        E 2 a0 49 00
+        E 2 90 49 31
+        E 7 a0 48 2b
+        E 15 b0 4a 03
+        E 1 a0 49 07
+        E 10 a0 48 28
+        E 16 b0 4a 05
+        E 1 a0 49 0e
+        E 9 a0 48 22
+        E 17 b0 4a 06
+        E 1 a0 49 16
+        E 9 a0 48 1a
+        E 16 b0 4a 08
+        E 1 a0 49 21
+        E 8 a0 48 00
+        E 6 80 48 0a
+        E 5 e0 00 40
+        E 5 b0 4a 0b
+        E 1 a0 49 2e
+        E 23 b0 4a 0f
+        E 2 a0 49 35
+        E 23 b0 4a 13
+        E 1 a0 49 37
+        E 22 b0 4a 15
+        E 2 a0 49 3a
+        E 22 b0 4a 19
+        E 1 a0 49 3d
+        E 22 b0 4a 1b
+        E 2 a0 49 3f
+        E 22 b0 4a 1e
+        E 1 a0 49 41
+        E 22 b0 4a 1d
+        E 2 a0 49 42
+        E 21 b0 4a 1c
+        E 2 a0 49 44
+        E 22 a0 49 45
+        E 11 b0 4a 1a
+        E 12 a0 49 44
+        E 24 b0 4a 19
+        E 1 a0 49 42
+        E 22 b0 4a 18
+        E 2 a0 49 3f
+        E 22 b0 4a 17
+        E 1 a0 49 3d
+        E 22 b0 4a 1a
+        E 24 b0 4a 1d
+        E 23 b0 4a 1e
+        E 11 a0 49 3e
+        E 13 b0 4a 20
+        E 11 a0 49 3f
+        E 12 b0 4a 23
+        E 12 a0 49 41
+        E 23 a0 49 43
+        E 12 b0 4a 25
+        E 11 a0 49 45
+        E 12 b0 4a 26
+        E 12 a0 49 43
+        E 12 b0 4a 28
+        E 11 a0 49 41
+        E 12 b0 4a 2a
+        E 12 a0 49 3f
+        E 11 b0 4a 2b
+        E 12 a0 49 3e
+        E 12 b0 4a 2c
+        E 12 a0 49 3f
+        E 11 b0 4a 2d
+        E 12 a0 49 40
+        E 12 b0 4a 2f
+        E 11 a0 49 42
+        E 12 b0 4a 32
+        E 12 a0 49 43
+        E 23 b0 4a 33
+        E 2 a0 49 44
+        E 22 b0 4a 36
+        E 1 a0 49 45
+        E 22 b0 4a 35
+        E 2 a0 49 47
+        E 22 b0 4a 33
+        E 34 b0 4a 34
+        E 12 a0 49 48
+        E 12 b0 4a 36
+        E 11 a0 49 49
+        E 12 b0 4a 38
+        E 11 a0 49 48
+        E 12 b0 4a 36
+        E 12 a0 49 46
+        E 12 b0 4a 38
+        E 11 a0 49 45
+        E 12 b0 4a 3c
+        E 12 a0 49 40
+        E 12 b0 4a 3f
+        E 12 a0 49 36
+        E 12 b0 4a 48
+        E 12 a0 49 27
+        E 11 b0 4a 4c
+        E 13 a0 49 13
+        E 11 a0 49 00
+        E 5 80 49 2a
+        E 1792 b0 7b 00
+        GUID {E0A91846-BBCD-544C-AA3A-D6229E4ED9C2}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 159
+        VELLANE 128 100 0
+        VELLANE 130 100 0
+        VELLANE -1 100 0
+        CFGEDITVIEW -643.026576 0.062422 54 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 4 1 1 1 1 1 0.125 47 0 1440 877 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 7
+      SNAPOFFS 0
+      LENGTH 6.68125
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {DEBC0582-3A0F-074F-8F9B-300E661ACDA6}
+      IID 5
+      NAME "01-Sax Linnstrument-Recorded MIDI"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {859A27E6-131B-554D-9583-C247F4089AE7}
+      RECPASS 4
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {F471910D-7479-1A45-BFD8-C88D6B6F8BC7}
+        E 2687 e5 00 40
+        E 1 b5 4a 09
+        E 2 a5 3c 00
+        E 1 95 3c 28
+        E 21 b5 4a 0d
+        E 2 a5 3c 13
+        E 22 b5 4a 0e
+        E 2 a5 3c 1c
+        E 22 b5 4a 0d
+        E 2 a5 3c 20
+        E 23 b5 4a 0e
+        E 0 a5 3c 22
+        E 23 b5 4a 0c
+        E 2 a5 3c 25
+        E 22 b5 4a 0d
+        E 2 a5 3c 27
+        E 22 b5 4a 0e
+        E 2 a5 3c 29
+        E 22 b5 4a 0f
+        E 24 a5 3c 2a
+        E 12 b5 4a 10
+        E 24 b5 4a 0f
+        E 12 a5 3c 2b
+        E 12 b5 4a 10
+        E 24 b5 4a 12
+        E 24 b5 4a 13
+        E 1 a5 3c 2c
+        E 23 b5 4a 14
+        E 1 a5 3c 2d
+        E 23 a5 3c 2f
+        E 12 b5 4a 13
+        E 11 a5 3c 31
+        E 12 b5 4a 14
+        E 12 a5 3c 34
+        E 24 b5 4a 13
+        E 11 a5 3c 35
+        E 24 a5 3c 37
+        E 24 b5 4a 14
+        E 1 a5 3c 35
+        E 23 a5 3c 34
+        E 11 b5 4a 13
+        E 24 b5 4a 14
+        E 12 a5 3c 33
+        E 24 b5 4a 13
+        E 23 b5 4a 14
+        E 2 a5 3c 34
+        E 22 b5 4a 13
+        E 1 a5 3c 36
+        E 23 b5 4a 12
+        E 1 a5 3c 37
+        E 22 b5 4a 11
+        E 2 a5 3c 39
+        E 22 b5 4a 13
+        E 12 a5 3c 37
+        E 13 b5 4a 14
+        E 6 e6 00 40
+        E 2 b6 4a 2f
+        E 1 a6 3d 00
+        E 2 96 3d 31
+        E 5 b5 4a 12
+        E 2 a5 3c 31
+        E 17 b6 4a 34
+        E 1 a6 3d 28
+        E 6 b5 4a 0f
+        E 2 a5 3c 23
+        E 17 b6 4a 38
+        E 2 a6 3d 38
+        E 6 b5 4a 10
+        E 1 a5 3c 16
+        E 18 b6 4a 3a
+        E 1 a6 3d 44
+        E 6 a5 3c 00
+        E 5 85 3c 25
+        E 13 b6 4a 3b
+        E 1 a6 3d 4c
+        E 22 b6 4a 39
+        E 1 a6 3d 50
+        E 23 a6 3d 53
+        E 23 a6 3d 54
+        E 23 a6 3d 55
+        E 35 a6 3d 56
+        E 69 a6 3d 55
+        E 93 a6 3d 54
+        E 35 a6 3d 53
+        E 23 b6 4a 3b
+        E 1 a6 3d 52
+        E 22 b6 4a 3c
+        E 2 a6 3d 50
+        E 21 b6 4a 3e
+        E 2 a6 3d 4d
+        E 22 a6 3d 4b
+        E 12 b6 4a 3f
+        E 11 a6 3d 4a
+        E 12 b6 4a 40
+        E 12 a6 3d 48
+        E 12 b6 4a 42
+        E 12 a6 3d 47
+        E 12 b6 4a 44
+        E 12 e7 00 40
+        E 1 b7 4a 4a
+        E 2 a7 3e 00
+        E 1 97 3e 2c
+        E 6 a6 3d 43
+        E 6 b6 4a 46
+        E 12 b7 4a 4f
+        E 1 a7 3e 1e
+        E 2 a6 3d 38
+        E 12 b6 4a 49
+        E 12 b7 4a 4e
+        E 1 a7 3e 31
+        E 2 e6 18 40
+        E 1 a6 3d 2f
+        E 11 b6 4a 4c
+        E 11 b7 4a 4f
+        E 2 a7 3e 3d
+        E 1 e6 48 40
+        E 2 a6 3d 25
+        E 21 b7 4a 52
+        E 1 a7 3e 44
+        E 23 b7 4a 53
+        E 1 a7 3e 49
+        E 2 a6 3d 00
+        E 5 86 3d 22
+        E 16 a7 3e 4c
+        E 23 a7 3e 4d
+        E 12 b7 4a 54
+        E 11 a7 3e 4f
+        E 12 b7 4a 53
+        E 12 a7 3e 52
+        E 11 b7 4a 54
+        E 12 a7 3e 54
+        E 11 b7 4a 56
+        E 12 a7 3e 57
+        E 11 b7 4a 59
+        E 12 a7 3e 59
+        E 12 b7 4a 5c
+        E 11 a7 3e 5a
+        E 12 b7 4a 5e
+        E 23 b7 4a 5f
+        E 23 b7 4a 60
+        E 1 a7 3e 59
+        E 22 b7 4a 61
+        E 12 a7 3e 58
+        E 11 b7 4a 62
+        E 12 a7 3e 57
+        E 11 b7 4a 63
+        E 12 a7 3e 56
+        E 23 a7 3e 55
+        E 12 b7 4a 64
+        E 23 b7 4a 65
+        E 34 b7 4a 66
+        E 12 a7 3e 56
+        E 12 b7 4a 68
+        E 11 a7 3e 57
+        E 12 b7 4a 69
+        E 11 a7 3e 56
+        E 12 b7 4a 6b
+        E 12 a7 3e 57
+        E 12 b7 4a 6d
+        E 11 a7 3e 53
+        E 12 b7 4a 6e
+        E 13 a7 3e 50
+        E 3 e1 00 40
+        E 2 b1 4a 18
+        E 1 a1 3f 00
+        E 2 91 3f 23
+        E 7 b7 4a 6f
+        E 1 a7 3e 4e
+        E 16 b1 4a 14
+        E 1 a1 3f 0c
+        E 9 b7 4a 70
+        E 1 a7 3e 48
+        E 16 b1 4a 11
+        E 1 a1 3f 14
+        E 9 b7 4a 6d
+        E 1 a7 3e 3e
+        E 15 e1 18 40
+        E 2 b1 4a 0d
+        E 1 a1 3f 1c
+        E 8 b7 4a 6a
+        E 1 a7 3e 2b
+        E 15 b1 4a 08
+        E 2 a1 3f 24
+        E 9 e7 18 40
+        E 2 b7 4a 6b
+        E 1 a7 3e 1d
+        E 13 b1 4a 07
+        E 2 a1 3f 2b
+        E 8 a7 3e 00
+        E 5 87 3e 17
+        E 6 e1 00 40
+        E 5 b1 4a 06
+        E 1 a1 3f 31
+        E 22 b1 4a 08
+        E 24 b1 4a 0a
+        E 12 e1 18 40
+        E 11 b1 4a 0d
+        E 13 e1 00 40
+        E 11 b1 4a 11
+        E 2 a1 3f 32
+        E 21 b1 4a 15
+        E 2 a1 3f 34
+        E 11 e1 68 3f
+        E 12 b1 4a 1a
+        E 1 a1 3f 36
+        E 10 e1 00 40
+        E 12 b1 4a 21
+        E 2 a1 3f 38
+        E 22 b1 4a 27
+        E 2 a1 3f 37
+        E 22 b1 4a 2b
+        E 1 a1 3f 34
+        E 23 b1 4a 2d
+        E 1 a1 3f 33
+        E 23 b1 4a 30
+        E 1 a1 3f 32
+        E 22 b1 4a 35
+        E 2 a1 3f 30
+        E 22 b1 4a 37
+        E 24 b1 4a 3a
+        E 2 a1 3f 2f
+        E 22 b1 4a 3d
+        E 24 b1 4a 3e
+        E 23 b1 4a 3f
+        E 12 a1 3f 30
+        E 24 b1 4a 41
+        E 24 b1 4a 42
+        E 23 b1 4a 44
+        E 37 b1 4a 43
+        E 2 a1 3f 2f
+        E 19 e2 00 40
+        E 2 b2 4a 1f
+        E 1 a2 41 00
+        E 2 92 41 1b
+        E 5 b1 4a 40
+        E 2 a1 3f 28
+        E 17 b2 4a 22
+        E 1 a2 41 06
+        E 4 b1 4a 3c
+        E 2 a1 3f 20
+        E 20 a2 41 0c
+        E 5 b1 4a 35
+        E 2 a1 3f 15
+        E 6 e2 18 40
+        E 14 b2 4a 23
+        E 2 a2 41 14
+        E 3 a1 3f 00
+        E 5 81 3f 1f
+        E 5 e2 30 40
+        E 10 b2 4a 25
+        E 2 a2 41 1b
+        E 10 e2 48 40
+        E 12 b2 4a 27
+        E 2 a2 41 25
+        E 10 e2 60 40
+        E 12 b2 4a 28
+        E 2 a2 41 2d
+        E 10 e2 48 40
+        E 12 b2 4a 29
+        E 2 a2 41 34
+        E 10 e2 30 40
+        E 12 b2 4a 2c
+        E 1 a2 41 37
+        E 11 e2 18 40
+        E 11 b2 4a 2d
+        E 2 a2 41 39
+        E 11 e2 00 40
+        E 35 a2 41 3a
+        E 23 e2 18 40
+        E 2 a2 41 3b
+        E 22 b2 4a 2e
+        E 12 a2 41 3c
+        E 23 b2 4a 2f
+        E 2 a2 41 3b
+        E 10 e2 00 40
+        E 24 b2 4a 30
+        E 23 b2 4a 31
+        E 24 b2 4a 32
+        E 1 a2 41 3a
+        E 23 b2 4a 33
+        E 11 a2 41 39
+        E 12 b2 4a 34
+        E 12 a2 41 38
+        E 24 a2 41 37
+        E 11 b2 4a 35
+        E 24 b2 4a 37
+        E 24 b2 4a 36
+        E 24 b2 4a 38
+        E 1 a2 41 36
+        E 23 a2 41 35
+        E 12 b2 4a 37
+        E 12 a2 41 2d
+        E 8 e3 00 40
+        E 1 b3 4a 43
+        E 2 a3 42 00
+        E 1 93 42 1f
+        E 6 a2 41 28
+        E 18 b3 4a 46
+        E 2 a3 42 10
+        E 5 b2 4a 36
+        E 1 a2 41 1a
+        E 19 b3 4a 48
+        E 2 a3 42 1a
+        E 5 b2 4a 34
+        E 1 a2 41 0e
+        E 19 b3 4a 49
+        E 1 a3 42 24
+        E 5 a2 41 00
+        E 5 82 41 0e
+        E 14 b3 4a 4c
+        E 2 a3 42 2c
+        E 23 b3 4a 50
+        E 1 a3 42 33
+        E 23 b3 4a 53
+        E 2 a3 42 37
+        E 21 b3 4a 55
+        E 2 a3 42 3c
+        E 22 a3 42 40
+        E 12 b3 4a 56
+        E 11 a3 42 42
+        E 12 b3 4a 57
+        E 12 a3 42 44
+        E 11 b3 4a 58
+        E 12 a3 42 46
+        E 12 b3 4a 56
+        E 11 a3 42 45
+        E 12 b3 4a 55
+        E 12 a3 42 44
+        E 23 b3 4a 54
+        E 2 a3 42 42
+        E 22 b3 4a 55
+        E 1 a3 42 41
+        E 57 a3 42 42
+        E 23 a3 42 44
+        E 24 a3 42 45
+        E 46 b3 4a 56
+        E 12 a3 42 44
+        E 24 b3 4a 55
+        E 1 a3 42 42
+        E 22 a3 42 40
+        E 24 a3 42 3d
+        E 11 b3 4a 57
+        E 12 a3 42 3c
+        E 12 b3 4a 58
+        E 12 a3 42 3b
+        E 12 b3 4a 5a
+        E 12 a3 42 39
+        E 11 b3 4a 5c
+        E 13 a3 42 36
+        E 24 e4 00 40
+        E 2 b4 4a 38
+        E 1 a4 43 00
+        E 1 94 43 21
+        E 6 b3 4a 5e
+        E 2 a3 42 32
+        E 16 b4 4a 3f
+        E 2 a4 43 11
+        E 1 a3 42 2e
+        E 13 b3 4a 5f
+        E 11 b4 4a 3e
+        E 2 a4 43 22
+        E 1 a3 42 26
+        E 13 b3 4a 5e
+        E 11 b4 4a 3d
+        E 2 a4 43 2e
+        E 1 a3 42 23
+        E 23 b4 4a 3c
+        E 2 a4 43 37
+        E 2 a3 42 1c
+        E 12 b3 4a 5d
+        E 11 b4 4a 3d
+        E 2 a4 43 3e
+        E 1 e3 18 40
+        E 2 a3 42 15
+        E 21 b4 4a 3e
+        E 2 a4 43 44
+        E 1 a3 42 00
+        E 6 83 42 14
+        E 16 b4 4a 40
+        E 2 a4 43 48
+        E 22 b4 4a 3f
+        E 2 a4 43 4b
+        E 23 b4 4a 42
+        E 36 b4 4a 43
+        E 1 a4 43 4a
+        E 22 b4 4a 44
+        E 2 a4 43 4b
+        E 22 b4 4a 46
+        E 1 a4 43 49
+        E 22 b4 4a 48
+        E 2 a4 43 48
+        E 22 a4 43 45
+        E 11 b4 4a 4a
+        E 12 a4 43 42
+        E 12 b4 4a 4c
+        E 11 a4 43 41
+        E 12 b4 4a 4f
+        E 12 a4 43 40
+        E 12 b4 4a 51
+        E 11 a4 43 3f
+        E 12 b4 4a 53
+        E 47 b4 4a 54
+        E 2 a4 43 3e
+        E 22 b4 4a 56
+        E 1 a4 43 3c
+        E 23 b4 4a 59
+        E 0 a4 43 3b
+        E 23 b4 4a 5b
+        E 2 a4 43 39
+        E 22 b4 4a 5d
+        E 1 a4 43 38
+        E 23 b4 4a 60
+        E 1 a4 43 32
+        E 23 b4 4a 63
+        E 1 a4 43 30
+        E 24 b4 4a 68
+        E 1 a4 43 2d
+        E 15 e5 00 40
+        E 1 b5 4a 15
+        E 2 a5 44 00
+        E 1 95 44 28
+        E 7 b4 4a 69
+        E 2 a4 43 29
+        E 15 b5 4a 17
+        E 2 a5 44 12
+        E 9 b4 4a 6a
+        E 1 a4 43 24
+        E 15 b5 4a 16
+        E 2 a5 44 1b
+        E 9 a4 43 21
+        E 13 b4 4a 69
+        E 3 b5 4a 15
+        E 2 a5 44 24
+        E 8 a4 43 19
+        E 13 a4 43 00
+        E 5 84 43 18
+        E 6 b5 4a 14
+        E 1 a5 44 2f
+        E 15 b5 4a 15
+        E 2 a5 44 3c
+        E 22 b5 4a 16
+        E 2 a5 44 40
+        E 33 b5 4a 17
+        E 2 a5 44 41
+        E 22 b5 4a 19
+        E 1 a5 44 43
+        E 22 b5 4a 1b
+        E 2 a5 44 47
+        E 22 b5 4a 1c
+        E 1 a5 44 4a
+        E 22 b5 4a 1f
+        E 1 a5 44 4b
+        E 22 b5 4a 24
+        E 1 a5 44 4a
+        E 23 b5 4a 26
+        E 1 a5 44 49
+        E 22 a5 44 48
+        E 23 b5 4a 25
+        E 1 a5 44 47
+        E 22 b5 4a 28
+        E 23 b5 4a 29
+        E 12 a5 44 46
+        E 12 b5 4a 2c
+        E 23 b5 4a 2e
+        E 2 a5 44 47
+        E 22 b5 4a 31
+        E 22 b5 4a 33
+        E 2 a5 44 48
+        E 22 b5 4a 35
+        E 11 a5 44 49
+        E 12 b5 4a 37
+        E 12 a5 44 48
+        E 23 b5 4a 38
+        E 2 a5 44 47
+        E 22 b5 4a 3a
+        E 1 a5 44 46
+        E 22 b5 4a 3c
+        E 23 b5 4a 3f
+        E 2 a5 44 45
+        E 22 b5 4a 41
+        E 1 a5 44 43
+        E 23 a5 44 41
+        E 12 b5 4a 42
+        E 8 e6 00 40
+        E 2 b6 4a 3f
+        E 2 a6 46 00
+        E 1 96 46 25
+        E 6 a5 44 38
+        E 9 b5 4a 3f
+        E 9 b6 4a 3d
+        E 1 a6 46 19
+        E 4 a5 44 25
+        E 22 a6 46 26
+        E 5 b5 4a 3d
+        E 1 a5 44 14
+        E 7 b6 4a 3f
+        E 14 a6 46 2e
+        E 4 a5 44 00
+        E 5 85 44 1f
+        E 6 b6 4a 42
+        E 10 a6 46 34
+        E 11 b6 4a 44
+        E 12 a6 46 3a
+        E 23 b6 4a 45
+        E 2 a6 46 3e
+        E 22 a6 46 41
+        E 12 b6 4a 46
+        E 11 a6 46 44
+        E 12 b6 4a 48
+        E 23 b6 4a 47
+        E 2 a6 46 43
+        E 56 b6 4a 48
+        E 24 b6 4a 46
+        E 23 b6 4a 45
+        E 58 b6 4a 46
+        E 2 a6 46 42
+        E 22 b6 4a 45
+        E 11 a6 46 41
+        E 47 b6 4a 48
+        E 1 a6 46 40
+        E 22 b6 4a 47
+        E 2 a6 46 41
+        E 22 b6 4a 48
+        E 35 a6 46 40
+        E 12 b6 4a 49
+        E 24 a6 46 3f
+        E 11 b6 4a 48
+        E 12 a6 46 3d
+        E 12 b6 4a 49
+        E 12 a6 46 3b
+        E 7 e7 00 40
+        E 2 b7 4a 5d
+        E 2 a7 47 00
+        E 1 97 47 1d
+        E 6 b6 4a 4d
+        E 1 a6 46 3a
+        E 17 b7 4a 60
+        E 1 a7 47 14
+        E 5 b6 4a 51
+        E 2 a6 46 33
+        E 19 a7 47 20
+        E 6 b6 4a 52
+        E 2 a6 46 2b
+        E 5 b7 4a 62
+        E 7 e6 18 40
+        E 7 a7 47 2d
+        E 6 b6 4a 54
+        E 2 a6 46 22
+        E 5 b7 4a 65
+        E 7 e6 30 40
+        E 6 a7 47 38
+        E 7 b6 4a 55
+        E 2 a6 46 1a
+        E 11 e6 60 40
+        E 7 b7 4a 66
+        E 1 a7 47 40
+        E 6 a6 46 14
+        E 13 e6 10 41
+        E 7 a7 47 44
+        E 6 a6 46 0e
+        E 7 b7 4a 67
+        E 12 a7 47 47
+        E 6 a6 46 0a
+        E 12 a6 46 00
+        E 6 86 46 0c
+        E 5 b7 4a 68
+        E 1 a7 47 49
+        E 20 b7 4a 65
+        E 1 a7 47 4b
+        E 23 a7 47 4c
+        E 23 b7 4a 64
+        E 2 a7 47 4b
+        E 22 a7 47 4a
+        E 23 b7 4a 65
+        E 23 a7 47 4b
+        E 58 b7 4a 66
+        E 12 a7 47 4c
+        E 22 b7 4a 65
+        E 2 a7 47 4b
+        E 22 a7 47 4c
+        E 23 b7 4a 66
+        E 35 b7 4a 65
+        E 23 b7 4a 66
+        E 23 a7 47 4b
+        E 12 b7 4a 67
+        E 23 b7 4a 68
+        E 12 a7 47 4a
+        E 11 b7 4a 69
+        E 24 b7 4a 6b
+        E 23 b7 4a 6c
+        E 1 a7 47 49
+        E 11 e1 00 40
+        E 2 b1 4a 34
+        E 1 a1 48 00
+        E 2 91 48 21
+        E 11 b7 4a 6d
+        E 2 a7 47 46
+        E 10 b1 4a 3e
+        E 1 a1 48 13
+        E 14 a7 47 40
+        E 12 a1 48 1c
+        E 1 b7 4a 6e
+        E 11 b1 4a 41
+        E 3 a7 47 35
+        E 11 a1 48 26
+        E 2 b7 4a 6b
+        E 11 b1 4a 45
+        E 3 a7 47 25
+        E 11 a1 48 2e
+        E 13 b1 4a 47
+        E 2 b7 4a 6c
+        E 2 a7 47 17
+        E 9 a1 48 34
+        E 14 b1 4a 46
+        E 2 a7 47 00
+        E 5 87 47 23
+        E 6 a1 48 39
+        E 12 b1 4a 47
+        E 12 a1 48 3d
+        E 24 a1 48 3e
+        E 85 a1 48 3f
+        E 36 b1 4a 48
+        E 24 b1 4a 4a
+        E 2 a1 48 3e
+        E 22 b1 4a 4b
+        E 1 a1 48 44
+        E 22 a1 48 40
+        E 24 b1 4a 4c
+        E 1 a1 48 3f
+        E 22 b1 4a 4e
+        E 2 a1 48 3d
+        E 22 b1 4a 50
+        E 2 a1 48 3c
+        E 22 b1 4a 52
+        E 1 a1 48 3b
+        E 22 b1 4a 55
+        E 2 a1 48 3e
+        E 22 b1 4a 56
+        E 1 a1 48 41
+        E 22 b1 4a 58
+        E 2 a1 48 45
+        E 22 b1 4a 59
+        E 1 a1 48 46
+        E 22 b1 4a 5c
+        E 12 a1 48 45
+        E 12 b1 4a 5d
+        E 11 a1 48 40
+        E 13 b1 4a 5c
+        E 12 a1 48 3a
+        E 11 b1 4a 58
+        E 13 a1 48 32
+        E 12 b1 4a 54
+        E 12 a1 48 25
+        E 4 e2 00 40
+        E 1 b2 4a 0b
+        E 2 a2 49 00
+        E 2 92 49 25
+        E 7 b1 4a 55
+        E 1 a1 48 1f
+        E 16 b2 4a 0c
+        E 1 a2 49 13
+        E 9 a1 48 13
+        E 16 b2 4a 0b
+        E 1 a2 49 1b
+        E 8 a1 48 00
+        E 6 81 48 0e
+        E 9 a2 49 23
+        E 25 a2 49 2b
+        E 12 b2 4a 0e
+        E 12 a2 49 30
+        E 12 b2 4a 15
+        E 11 a2 49 35
+        E 12 b2 4a 18
+        E 12 a2 49 38
+        E 11 b2 4a 19
+        E 12 a2 49 3b
+        E 24 b2 4a 16
+        E 1 a2 49 3d
+        E 22 b2 4a 11
+        E 2 a2 49 3f
+        E 21 b2 4a 0c
+        E 2 a2 49 40
+        E 22 b2 4a 0a
+        E 23 b2 4a 0b
+        E 12 a2 49 41
+        E 23 b2 4a 0c
+        E 2 a2 49 43
+        E 22 b2 4a 0e
+        E 1 a2 49 47
+        E 22 a2 49 4a
+        E 23 a2 49 4c
+        E 12 b2 4a 0d
+        E 23 b2 4a 0b
+        E 35 b2 4a 0a
+        E 23 b2 4a 09
+        E 12 a2 49 4d
+        E 23 b2 4a 0b
+        E 2 a2 49 4e
+        E 22 b2 4a 0c
+        E 1 a2 49 50
+        E 22 b2 4a 0d
+        E 2 a2 49 52
+        E 21 b2 4a 0f
+        E 2 a2 49 54
+        E 22 b2 4a 0e
+        E 11 a2 49 55
+        E 35 a2 49 54
+        E 11 b2 4a 0d
+        E 12 a2 49 53
+        E 12 b2 4a 0b
+        E 11 a2 49 52
+        E 12 b2 4a 0a
+        E 12 a2 49 51
+        E 11 b2 4a 0b
+        E 58 b2 4a 0c
+        E 23 b2 4a 0d
+        E 2 a2 49 52
+        E 21 b2 4a 12
+        E 2 a2 49 56
+        E 22 b2 4a 15
+        E 1 a2 49 5a
+        E 22 b2 4a 14
+        E 1 a2 49 5d
+        E 22 b2 4a 11
+        E 23 b2 4a 0f
+        E 11 a2 49 5c
+        E 12 b2 4a 0e
+        E 12 a2 49 59
+        E 12 b2 4a 09
+        E 11 a2 49 51
+        E 12 b2 4a 05
+        E 12 a2 49 43
+        E 11 b2 4a 09
+        E 12 a2 49 2a
+        E 24 a2 49 00
+        E 5 82 49 3a
+        E 1397 b0 7b 00
+        GUID {E11D4AA8-7A34-1F41-9A25-C813D34A79B6}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 162
+        VELLANE 2 128 0
+        VELLANE 128 100 0
+        VELLANE 18 100 0
+        VELLANE -1 100 0
+      >
+    >
+  >
+  <TRACK {081EC1B5-F772-2E4A-B163-84CAF1548887}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {081EC1B5-F772-2E4A-B163-84CAF1548887}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 6.57501133786848
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {539B82FB-CCF5-484B-BD05-0B3191659FF3}
+      IID 4
+      NAME 02-180410_1849.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {50333A8B-4CC6-164C-A20A-FED0845B2663}
+      RECPASS 3
+      <SOURCE WAVE
+        FILE "02-180410_1849.wav"
+      >
+    >
+    <ITEM
+      POSITION 7
+      SNAPOFFS 0
+      LENGTH 6.67950113378685
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {DF01FCF0-3BA7-5C46-BA51-F771EB5F3AC0}
+      IID 6
+      NAME 02-180410_1849-01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5A3B4BF1-AD2B-E242-B16E-2BED8DE48BC3}
+      RECPASS 4
+      <SOURCE WAVE
+        FILE "02-180410_1849-01.wav"
+      >
+    >
+  >
+  <TRACK {C400C46F-3A1B-FA48-B88C-16A0A1A3E8D0}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C400C46F-3A1B-FA48-B88C-16A0A1A3E8D0}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 14.5
+      SNAPOFFS 0
+      LENGTH 6.95814058956916
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B1BAB9EE-F634-E54F-B818-5BDB2CFE579D}
+      IID 7
+      NAME 03-180410_1850.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {269FAED9-B47A-854C-90FB-3E35795F2001}
+      RECPASS 5
+      <SOURCE WAVE
+        FILE "03-180410_1850.wav"
+      >
+    >
+  >
+  <TRACK {5721F656-3060-2D46-87AD-B2BD0EFEA42D}
+    NAME "Sax Martin"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 5088 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5721F656-3060-2D46-87AD-B2BD0EFEA42D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 352 140 1025 676
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <AU "AUi: SWAM Tenor Sax (Audio Modeling)" "Audio Modeling: SWAM Tenor Sax" "" 1635085685 1398896724 1398227277
+        6QMAAAAAAAAAAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAAIKQAAPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHBsaXN0IFBVQkxJ
+        QyAiLS8vQXBwbGUvL0RURCBQTElTVCAxLjAvL0VOIiAiaHR0cDovL3d3dy5hcHBsZS5jb20vRFREcy9Qcm9wZXJ0eUxpc3QtMS4wLmR0ZCI+CjxwbGlzdCB2ZXJzaW9u
+        PSIxLjAiPgo8ZGljdD4KCTxrZXk+ZGF0YTwva2V5PgoJPGRhdGE+CglBQUFBQUFBQUFBQUFBQUNBQUFBQUFBQUFBQUFBQUFBQkFBQUFBQUFBQUFJQUFBQUFBQUFBQXdB
+        QUFBQUFBQUFFQUFBQQoJQUFBQUFBVUFBQUFBQUFBQUJnQUFBQUFBQUFBSEFBQUFBQUFBQUFnQUFBQUFBQUFBQ1FBQUFBQUFBQUFLQUFBQUFBQUEKCUFBc0FBQUFBQUFB
+        QURBQUFBQUFBQUFBTkFBQUFBQUFBQUE0QUFBQUFBQUFBRHdBQUFBQUFBQUFRQUFBQUFBQUFBQkVBCglBQUFBQUFBQUVnQUFBQUFBQUFBVEFBQUFBQUFBQUJRQUFBQUFB
+        QUFBRlFBQUFBQUFBQUFXQUFBQUFBQUFBQmNBQUFBQQoJQUFBQUdBQUFBQUFBQUFBWkFBQUFBQUFBQUJvQUFBQUFBQUFBR3dBQUFBQUFBQUFjQUFBQUFBQUFBQjBBQUFB
+        QUFBQUEKCUhnQUFBQUFBQUFBZkFBQUFBQUFBQUNBQUFBQUFBQUFBSVFBQUFBQUFBQUFpQUFBQUFBQUFBQ01BQUFBQUFBQUFKQUFBCglBQUFBQUFBbEFBQUFBQUFBQUNZ
+        QUFBQUFBQUFBSndBQUFBQUFBQUFvQUFBQUFBQUFBQ2tBQUFBQUFBQUFLZ0FBQUFBQQoJQUFBckFBQUFBQUFBQUN3QUFBQUFBQUFBTFFBQUFBQUFBQUF1QUFBQUFBQUFB
+        QzhBQUFBQUFBQUFNQUFBQUFBQUFBQXgKCUFBQUFBQUFBQURJQUFBQUFBQUFBTXdBQUFBQUFBQUEwQUFBQUFBQUFBRFVBQUFBQUFBQUFOZ0FBQUFBQUFBQTNBQUFBCglB
+        QUFBQURnQUFBQUFBQUFBT1FBQUFBQUFBQUE2QUFBQUFBQUFBRHNBQUFBQUFBQUFQQUFBQUFBQUFBQTlBQUFBQUFBQQoJQUQ0QUFBQUFBQUFBUHdBQUFBQUFBQUJBQUFB
+        QUFBQUFBRUVBQUFBQUFBQUFRZ0FBQUFBQUFBQkRBQUFBQUFBQUFFUUEKCUFBQUFBQUFBUlFBQUFBQUFBQUJHQUFBQUFBQUFBRWNBQUFBQUFBQUFTQUFBQUFBQUFBQkpB
+        QUFBQUFBQUFFb0FBQUFBCglBQUFBU3dBQUFBQUFBQUJNQUFBQUFBQUFBRTBBQUFBQUFBQUFUZ0FBQUFBQUFBQlBBQUFBQUFBQUFGQUFBQUFBQUFBQQoJVVFBQUFBQUFB
+        QUJTQUFBQUFBQUFBRk1BQUFBQUFBQUFWQUFBQUFBQUFBQlZBQUFBQUFBQUFGWUFBQUFBQUFBQVZ3QUEKCUFBQUFBQUJZQUFBQUFBQUFBRmtBQUFBQUFBQUFXZ0FBQUFB
+        QUFBQmJBQUFBQUFBQUFGd0FBQUFBQUFBQVhRQUFBQUFBCglBQUJlQUFBQUFBQUFBRjhBQUFBQUFBQUFZQUFBQUFBQUFBQmhBQUFBQUFBQUFHSUFBQUFBQUFBQVl3QUFB
+        QUFBQUFCawoJQUFBQUFBQUFBR1VBQUFBQUFBQUFaZ0FBQUFBQUFBQm5BQUFBQUFBQUFHZ0FBQUFBQUFBQWFRQUFBQUFBQUFCcUFBQUEKCUFBQUFBR3NBQUFBQUFBQUFi
+        QUFBQUFBQUFBQnRBQUFBQUFBQUFHNEFBQUFBQUFBQWJ3QUFBQUFBQUFCd0FBQUFBQUFBCglBSEVBQUFBQUFBQUFjZ0FBQUFBQUFBQnpBQUFBQUFBQUFIUUFBQUFBQUFB
+        QWRRQUFBQUFBQUFCMkFBQUFBQUFBQUhjQQoJQUFBQUFBQUFlQUFBQUFBQUFBQjVBQUFBQUFBQUFIb0FBQUFBQUFBQWV3QUFBQUFBQUFCOEFBQUFBQUFBQUgwQUFBQUEK
+        CUFBQUFmZ0FBQUFBQUFBQi9BQUFBQUE9PQoJPC9kYXRhPgoJPGtleT5qdWNlUGx1Z2luU3RhdGU8L2tleT4KCTxkYXRhPgoJVmtNeUlWb1lBQUE4YzNkaGJTQjBlWEJs
+        UFNKVFlYZ2lJSFpsY25OcGIyNDlJak1pUGp4a1lYUmxkR2x0WlNCMllXeDEKCVpUMGlWSFZsSUVGd2NpQXhNQ0F4T0RvMU5qbzBOaUF5TURFNEppTXhNRHNpTHo0OGNI
+        SnZaM0poYlNCMllXeDFaVDBpCglSWGh3Y2t4dmQxSnZkekVpUGp4d1lYSmhiU0J1WVcxbFBTSnRZV2x1Vm05c2RXMWxJaUJwYm1SbGVEMGlNQ0lnZG1GcwoJZFdVOUlq
+        QXVOekEzTURrNU9UYzBJaTgrUEhCaGNtRnRJRzVoYldVOUluQmhibEJ2ZENJZ2FXNWtaWGc5SWpFaUlIWmgKCWJIVmxQU0l3TGpVaUx6NDhjR0Z5WVcwZ2JtRnRaVDBp
+        YldGemRHVnlWSFZ1WlNJZ2FXNWtaWGc5SWpJaUlIWmhiSFZsCglQU0l3TGpRNE1qRTBNamcyTmlJdlBqeHdZWEpoYlNCdVlXMWxQU0p5WlhabGNtSk5hWGdpSUdsdVpH
+        VjRQU0l6SWlCMgoJWVd4MVpUMGlNQzQxSWk4K1BIQmhjbUZ0SUc1aGJXVTlJbkpsZG1WeVlsUnBiV1VpSUdsdVpHVjRQU0kwSWlCMllXeDEKCVpUMGlNQzQxSWk4K1BI
+        QmhjbUZ0SUc1aGJXVTlJblJ5WVc1emNHOXpaVkJoY21GdElpQnBibVJsZUQwaU5TSWdkbUZzCglkV1U5SWpBdU5TSXZQanh3WVhKaGJTQnVZVzFsUFNKd2FYUmphRUps
+        Ym1SVmNDSWdhVzVrWlhnOUlqWWlJSFpoYkhWbAoJUFNJd0lpOCtQSEJoY21GdElHNWhiV1U5SW5CcGRHTm9RbVZ1WkVSdmQyNGlJR2x1WkdWNFBTSTNJaUIyWVd4MVpU
+        MGkKCU1DSXZQanh3WVhKaGJTQnVZVzFsUFNKMmFXSnlZWFJ2VW1GMFpTSWdhVzVrWlhnOUlqRXdJaUIyWVd4MVpUMGlNQzR6CglNemMwT1RrNU56WWlMejQ4Y0dGeVlX
+        MGdibUZ0WlQwaWRtOXBZMlZEYjIxaU1WZGxkQ0lnYVc1a1pYZzlJakV4SWlCMgoJWVd4MVpUMGlNQzQxSWk4K1BIQmhjbUZ0SUc1aGJXVTlJbk4xWW1oaGNtMUhZV2x1
+        SWlCcGJtUmxlRDBpTVRRaUlIWmgKCWJIVmxQU0l3TGpBNU5EUTRPREU0T0RZaUx6NDhjR0Z5WVcwZ2JtRnRaVDBpWjNKdmQyeEhZV2x1SWlCcGJtUmxlRDBpCglNVFVp
+        SUhaaGJIVmxQU0l3TGpBMU5URXhPREV4SWk4K1BIQmhjbUZ0SUc1aGJXVTlJbVpzZFhSMFpYSkhZV2x1SWlCcAoJYm1SbGVEMGlNVFlpSUhaaGJIVmxQU0l3SWk4K1BI
+        QmhjbUZ0SUc1aGJXVTlJa2xTYzJWc1pXTjBaV1FpSUdsdVpHVjQKCVBTSXhOeUlnZG1Gc2RXVTlJakFpTHo0OGNHRnlZVzBnYm1GdFpUMGljbUZ1Wkc5dFJIbHVZVzFw
+        WXlJZ2FXNWtaWGc5CglJakU0SWlCMllXeDFaVDBpTUM0eU56STNNamN5T0RFaUx6NDhjR0Z5WVcwZ2JtRnRaVDBpWkhsdVlXMXBZMUJwZEdObwoJSWlCcGJtUmxlRDBp
+        TVRraUlIWmhiSFZsUFNJd0xqSXpOakl5TURRM09TSXZQanh3WVhKaGJTQnVZVzFsUFNKaGRIUmgKCVkydFVlWEJsSWlCcGJtUmxlRDBpTWpBaUlIWmhiSFZsUFNJd0lp
+        OCtQSEJoY21GdElHNWhiV1U5SW5KbGJGUnBiV1VpCglJR2x1WkdWNFBTSXlNU0lnZG1Gc2RXVTlJakFpTHo0OGNHRnlZVzBnYm1GdFpUMGlabTl5YldGdWRDSWdhVzVr
+        WlhnOQoJSWpJeUlpQjJZV3gxWlQwaU1DSXZQanh3WVhKaGJTQnVZVzFsUFNKamIyMXdjbVZ6YzI5eUlpQnBibVJsZUQwaU1qTWkKCUlIWmhiSFZsUFNJd0xqVWlMejQ4
+        Y0dGeVlXMGdibUZ0WlQwaWJXOWtZV3hTWlhOSFlXbHVJaUJwYm1SbGVEMGlNalFpCglJSFpoYkhWbFBTSXdMalVpTHo0OGNHRnlZVzBnYm1GdFpUMGlZbkpsWVhSb1Rt
+        OXBjMlZIWVdsdUlpQnBibVJsZUQwaQoJTWpVaUlIWmhiSFZsUFNJd0xqVXdNemt6TnpBd05pSXZQanh3WVhKaGJTQnVZVzFsUFNKclpYbE9iMmx6WlVkaGFXNGkKCUlH
+        bHVaR1Y0UFNJeU5pSWdkbUZzZFdVOUlqQXVOVEF6T1RNM01EQTJJaTgrUEhCaGNtRnRJRzVoYldVOUlraGhjbTFVCgljbUZ1Y3lJZ2FXNWtaWGc5SWpJM0lpQjJZV3gx
+        WlQwaU1DNDFNREF3TURBd05pSXZQanh3WVhKaGJTQnVZVzFsUFNKdwoJYjNKMFlXMWxiblJ2UTNSeWJDSWdhVzVrWlhnOUlqSTRJaUIyWVd4MVpUMGlNQ0l2UGp4d1lY
+        SmhiU0J1WVcxbFBTSnkKCVlXMXdWR2x0WlNJZ2FXNWtaWGc5SWpJNUlpQjJZV3gxWlQwaU1DNDFJaTgrUEhCaGNtRnRJRzVoYldVOUltMWhlRkJ2CgljblJwYldVaUlH
+        bHVaR1Y0UFNJek1DSWdkbUZzZFdVOUlqQWlMejQ4Y0dGeVlXMGdibUZ0WlQwaWRtVnNVRzl5ZEVkaAoJYVc0aUlHbHVaR1Y0UFNJek1TSWdkbUZzZFdVOUlqQXVOU0l2
+        UGp4d1lYSmhiU0J1WVcxbFBTSmhkWFJ2Ulhod2NsQnYKCWNuUmhiU0lnYVc1a1pYZzlJak15SWlCMllXeDFaVDBpTUM0MUlpOCtQSEJoY21GdElHNWhiV1U5SW5acFlu
+        SmhkRzlTCglZWFJsVW1GdVpDSWdhVzVrWlhnOUlqTXpJaUIyWVd4MVpUMGlNQzR6TURBd01EQXdNVElpTHo0OGNHRnlZVzBnYm1GdAoJWlQwaWIzWmxjbUpzYjNkVWFI
+        SmxjMmdpSUdsdVpHVjRQU0l6TkNJZ2RtRnNkV1U5SWpBdU5TSXZQanh3WVhKaGJTQnUKCVlXMWxQU0psZUhCeVpYTnphVzl1VUdWa1lXeFVlWEJsSWlCcGJtUmxlRDBp
+        TXpVaUlIWmhiSFZsUFNJd0xqTXdNREF3CglNREF4TWlJdlBqeHdZWEpoYlNCdVlXMWxQU0p3WVc1d2IzUlVlWEJsSWlCcGJtUmxlRDBpTXpZaUlIWmhiSFZsUFNJdwoJ
+        SWk4K1BIQmhjbUZ0SUc1aGJXVTlJbU5vY205dFlYUnBZMDl1VDJabUlpQnBibVJsZUQwaU16Y2lJSFpoYkhWbFBTSXgKCUlpOCtQSEJoY21GdElHNWhiV1U5SW5abGJF
+        VjRjSEpQYms5bVppSWdhVzVrWlhnOUlqTTRJaUIyWVd4MVpUMGlNQ0l2CglQanh3WVhKaGJTQnVZVzFsUFNKbGVIQnlaWE56YVc5dVEwTWlJR2x1WkdWNFBTSXpPU0ln
+        ZG1Gc2RXVTlJakFpTHo0OAoJY0dGeVlXMGdibUZ0WlQwaWRtbGljbUYwYjBSbGNIUm9RME1pSUdsdVpHVjRQU0kwTUNJZ2RtRnNkV1U5SWpFaUx6NDgKCWNHRnlZVzBn
+        Ym1GdFpUMGlkbWxpY21GMGIxSmhkR1ZEUXlJZ2FXNWtaWGc5SWpReElpQjJZV3gxWlQwaU1DNHhOREEyCglNalVpTHo0OGNHRnlZVzBnYm1GdFpUMGljRzl5ZEdGdFpX
+        NTBiMVJwYldWRFF5SWdhVzVrWlhnOUlqUXlJaUIyWVd4MQoJWlQwaU1DNHdNekV5TlNJdlBqeHdZWEpoYlNCdVlXMWxQU0pvWVhKdGIyNXBZMU4wY25WamRIVnlaVU5E
+        SWlCcGJtUmwKCWVEMGlORE1pSUhaaGJIVmxQU0l3TGpFM09UWTROelVpTHo0OGNHRnlZVzBnYm1GdFpUMGljM1ZpU0dGeWJXOXVhV056CglRME1pSUdsdVpHVjRQU0kw
+        TkNJZ2RtRnNkV1U5SWpBdU1UUTRORE0zTlNJdlBqeHdZWEpoYlNCdVlXMWxQU0puY205MwoJYkVORElpQnBibVJsZUQwaU5EVWlJSFpoYkhWbFBTSXdMakUxTmpJMUlp
+        OCtQSEJoY21GdElHNWhiV1U5SW1ac2RYUjAKCVpYSlViMjVuZFdWRFF5SWdhVzVrWlhnOUlqUTJJaUIyWVd4MVpUMGlNQzR4TnpFNE56VWlMejQ4Y0dGeVlXMGdibUZ0
+        CglaVDBpWW5KbFlYUm9UbTlwYzJWRFF5SWdhVzVrWlhnOUlqUTNJaUIyWVd4MVpUMGlNQzR4T0RjMUlpOCtQSEJoY21GdAoJSUc1aGJXVTlJbXRsZVU1dmFYTmxRME1p
+        SUdsdVpHVjRQU0kwT0NJZ2RtRnNkV1U5SWpBdU1EWXlOU0l2UGp4d1lYSmgKCWJTQnVZVzFsUFNKdmRtVnlZbXh2ZDFOM2FYUmphRU5ESWlCcGJtUmxlRDBpTkRraUlI
+        WmhiSFZsUFNJd0xqUTVNakU0CglOelVpTHo0OGNHRnlZVzBnYm1GdFpUMGlabUZzYkdSdmQyNVRkMmwwWTJoRFF5SWdhVzVrWlhnOUlqVXdJaUIyWVd4MQoJWlQwaU1T
+        SXZQanh3WVhKaGJTQnVZVzFsUFNKRWVXNWhiV2xqVUdsMFkyaERReUlnYVc1a1pYZzlJalV4SWlCMllXeDEKCVpUMGlNQzR3TlRRMk9EYzFJaTgrUEhCaGNtRnRJRzVo
+        YldVOUltdHpUMk4wVkhKaGMzQWlJR2x1WkdWNFBTSTFNeUlnCglkbUZzZFdVOUlqQWlMejQ4Y0dGeVlXMGdibUZ0WlQwaWJXbGpjbTkwZFc1cGJtZERReUlnYVc1a1pY
+        ZzlJalUwSWlCMgoJWVd4MVpUMGlNQzR5TXpRek56VWlMejQ4Y0dGeVlXMGdibUZ0WlQwaWJXbGpjbTkwZFc1cGJtY3dJaUJwYm1SbGVEMGkKCU5UVWlJSFpoYkhWbFBT
+        SXdMakE0TXpNek16TXpOVGdpTHo0OGNHRnlZVzBnYm1GdFpUMGliV2xqY205MGRXNXBibWN4CglJaUJwYm1SbGVEMGlOVFlpSUhaaGJIVmxQU0l3TGpBNE16TXpNek16
+        TlRnaUx6NDhjR0Z5WVcwZ2JtRnRaVDBpYldsagoJY205MGRXNXBibWN5SWlCcGJtUmxlRDBpTlRjaUlIWmhiSFZsUFNJd0xqQTRNek16TXpNek5UZ2lMejQ4Y0dGeVlX
+        MGcKCWJtRnRaVDBpYldsamNtOTBkVzVwYm1jeklpQnBibVJsZUQwaU5UZ2lJSFpoYkhWbFBTSXdMakE0TXpNek16TXpOVGdpCglMejQ4Y0dGeVlXMGdibUZ0WlQwaWJX
+        bGpjbTkwZFc1cGJtYzBJaUJwYm1SbGVEMGlOVGtpSUhaaGJIVmxQU0l3TGpBNAoJTXpNek16TXpOVGdpTHo0OGNHRnlZVzBnYm1GdFpUMGliV2xqY205MGRXNXBibWMx
+        SWlCcGJtUmxlRDBpTmpBaUlIWmgKCWJIVmxQU0l3TGpBNE16TXpNek16TlRnaUx6NDhjR0Z5WVcwZ2JtRnRaVDBpYldsamNtOTBkVzVwYm1jMklpQnBibVJsCgllRDBp
+        TmpFaUlIWmhiSFZsUFNJd0xqQTRNek16TXpNek5UZ2lMejQ4Y0dGeVlXMGdibUZ0WlQwaWJXbGpjbTkwZFc1cAoJYm1jM0lpQnBibVJsZUQwaU5qSWlJSFpoYkhWbFBT
+        SXdMakE0TXpNek16TXpOVGdpTHo0OGNHRnlZVzBnYm1GdFpUMGkKCWJXbGpjbTkwZFc1cGJtYzRJaUJwYm1SbGVEMGlOak1pSUhaaGJIVmxQU0l3TGpBNE16TXpNek16
+        TlRnaUx6NDhjR0Z5CglZVzBnYm1GdFpUMGliV2xqY205MGRXNXBibWM1SWlCcGJtUmxlRDBpTmpRaUlIWmhiSFZsUFNJd0xqQTRNek16TXpNegoJTlRnaUx6NDhjR0Z5
+        WVcwZ2JtRnRaVDBpYldsamNtOTBkVzVwYm1jeE1DSWdhVzVrWlhnOUlqWTFJaUIyWVd4MVpUMGkKCU1DNHdPRE16TXpNek16VTRJaTgrUEhCaGNtRnRJRzVoYldVOUlt
+        MXBZM0p2ZEhWdWFXNW5NVEVpSUdsdVpHVjRQU0kyCglOaUlnZG1Gc2RXVTlJakF1TURnek16TXpNek0xT0NJdlBqeHdZWEpoYlNCdVlXMWxQU0pVWlcxd1pYSmhiU0ln
+        YVc1awoJWlhnOUlqWTNJaUIyWVd4MVpUMGlNQzQxSWk4K1BIQmhjbUZ0SUc1aGJXVTlJa0YwZEdGamExTjBZWEowSWlCcGJtUmwKCWVEMGlOamdpSUhaaGJIVmxQU0l3
+        TGpVaUx6NDhjR0Z5WVcwZ2JtRnRaVDBpYlhSRFgwOXVUMlptSWlCcGJtUmxlRDBpCglOamtpSUhaaGJIVmxQU0l3SWk4K1BIQmhjbUZ0SUc1aGJXVTlJbTEwUTFOZlQy
+        NVBabVlpSUdsdVpHVjRQU0kzTUNJZwoJZG1Gc2RXVTlJakFpTHo0OGNHRnlZVzBnYm1GdFpUMGliWFJFWDA5dVQyWm1JaUJwYm1SbGVEMGlOekVpSUhaaGJIVmwKCVBT
+        SXdJaTgrUEhCaGNtRnRJRzVoYldVOUltMTBSRk5mVDI1UFptWWlJR2x1WkdWNFBTSTNNaUlnZG1Gc2RXVTlJakFpCglMejQ4Y0dGeVlXMGdibUZ0WlQwaWJYUkZYMDl1
+        VDJabUlpQnBibVJsZUQwaU56TWlJSFpoYkhWbFBTSXdJaTgrUEhCaAoJY21GdElHNWhiV1U5SW0xMFJsOVBiazltWmlJZ2FXNWtaWGc5SWpjMElpQjJZV3gxWlQwaU1D
+        SXZQanh3WVhKaGJTQnUKCVlXMWxQU0p0ZEVaVFgwOXVUMlptSWlCcGJtUmxlRDBpTnpVaUlIWmhiSFZsUFNJd0lpOCtQSEJoY21GdElHNWhiV1U5CglJbTEwUjE5UGJr
+        OW1aaUlnYVc1a1pYZzlJamMySWlCMllXeDFaVDBpTUNJdlBqeHdZWEpoYlNCdVlXMWxQU0p0ZEVkVAoJWDA5dVQyWm1JaUJwYm1SbGVEMGlOemNpSUhaaGJIVmxQU0l3
+        SWk4K1BIQmhjbUZ0SUc1aGJXVTlJbTEwUVY5UGJrOW0KCVppSWdhVzVrWlhnOUlqYzRJaUIyWVd4MVpUMGlNQ0l2UGp4d1lYSmhiU0J1WVcxbFBTSnRkRUZUWDA5dVQy
+        Wm1JaUJwCglibVJsZUQwaU56a2lJSFpoYkhWbFBTSXdJaTgrUEhCaGNtRnRJRzVoYldVOUltMTBRbDlQYms5bVppSWdhVzVrWlhnOQoJSWpnd0lpQjJZV3gxWlQwaU1D
+        SXZQanh3WVhKaGJTQnVZVzFsUFNKdFlXbHVWbTlzZFcxbFEwTWlJR2x1WkdWNFBTSTQKCU1TSWdkbUZzZFdVOUlqRWlMejQ4Y0dGeVlXMGdibUZ0WlQwaWNHRnVVRzkw
+        UTBNaUlHbHVaR1Y0UFNJNE1pSWdkbUZzCglkV1U5SWpFaUx6NDhjR0Z5WVcwZ2JtRnRaVDBpY21WMlpYSmlUV2w0UTBNaUlHbHVaR1Y0UFNJNE15SWdkbUZzZFdVOQoJ
+        SWpFaUx6NDhjR0Z5WVcwZ2JtRnRaVDBpUWtOdGIyUmxJaUJwYm1SbGVEMGlPRFFpSUhaaGJIVmxQU0l3SWk4K1BIQmgKCWNtRnRJRzVoYldVOUlrSkRYMEYwYTFObGJu
+        TWlJR2x1WkdWNFBTSTROU0lnZG1Gc2RXVTlJakF1TXpNek16TXpNelF6CglJaTgrUEhCaGNtRnRJRzVoYldVOUltWnZjbTFoYm5SRFF5SWdhVzVrWlhnOUlqZzJJaUIy
+        WVd4MVpUMGlNQzQxTnpBegoJTVRJMUlpOCtQSEJoY21GdElHNWhiV1U5SW14bFoyRjBiMDF2WkdVaUlHbHVaR1Y0UFNJNE55SWdkbUZzZFdVOUlqQWkKCUx6NDhjR0Z5
+        WVcwZ2JtRnRaVDBpYkdWbllYUnZUVzlrWlVORElpQnBibVJsZUQwaU9EZ2lJSFpoYkhWbFBTSXhJaTgrCglQSEJoY21GdElHNWhiV1U5SW10elRXbGthVU5vSWlCcGJt
+        UmxlRDBpT1RBaUlIWmhiSFZsUFNJeElpOCtQSEJoY21GdAoJSUc1aGJXVTlJbk4xYzNSaGFXNURReUlnYVc1a1pYZzlJamt4SWlCMllXeDFaVDBpTVNJdlBqeHdZWEpo
+        YlNCdVlXMWwKCVBTSmtkWEJzYVdOaGRHVlFVR3hoZVdWeUlpQnBibVJsZUQwaU9USWlJSFpoYkhWbFBTSXdJaTgrUEhCaGNtRnRJRzVoCgliV1U5SWsxSlJFbDJZV3hO
+        YVc0d0lpQnBibVJsZUQwaU9UTWlJSFpoYkhWbFBTSXdJaTgrUEhCaGNtRnRJRzVoYldVOQoJSWsxSlJFbDJZV3hOYVc0eElpQnBibVJsZUQwaU9UUWlJSFpoYkhWbFBT
+        SXdJaTgrUEhCaGNtRnRJRzVoYldVOUlrMUoKCVJFbDJZV3hOYVc0eUlpQnBibVJsZUQwaU9UVWlJSFpoYkhWbFBTSXdJaTgrUEhCaGNtRnRJRzVoYldVOUlrMUpSRWwy
+        CglZV3hOYVc0eklpQnBibVJsZUQwaU9UWWlJSFpoYkhWbFBTSXdJaTgrUEhCaGNtRnRJRzVoYldVOUlrMUpSRWwyWVd4TgoJYVc0MElpQnBibVJsZUQwaU9UY2lJSFpo
+        YkhWbFBTSXdJaTgrUEhCaGNtRnRJRzVoYldVOUlrMUpSRWwyWVd4TmFXNDEKCUlpQnBibVJsZUQwaU9UZ2lJSFpoYkhWbFBTSXdJaTgrUEhCaGNtRnRJRzVoYldVOUlr
+        MUpSRWwyWVd4TmFXNDJJaUJwCglibVJsZUQwaU9Ua2lJSFpoYkhWbFBTSXdJaTgrUEhCaGNtRnRJRzVoYldVOUlrMUpSRWwyWVd4TmFXNDNJaUJwYm1SbAoJZUQwaU1U
+        QXdJaUIyWVd4MVpUMGlNQ0l2UGp4d1lYSmhiU0J1WVcxbFBTSk5TVVJKZG1Gc1RXbHVPQ0lnYVc1a1pYZzkKCUlqRXdNU0lnZG1Gc2RXVTlJakFpTHo0OGNHRnlZVzBn
+        Ym1GdFpUMGlUVWxFU1haaGJFMXBiamtpSUdsdVpHVjRQU0l4CglNRElpSUhaaGJIVmxQU0l3SWk4K1BIQmhjbUZ0SUc1aGJXVTlJazFKUkVsMllXeE5hVzR4TUNJZ2FX
+        NWtaWGc5SWpFdwoJTXlJZ2RtRnNkV1U5SWpBaUx6NDhjR0Z5WVcwZ2JtRnRaVDBpVFVsRVNYWmhiRTFwYmpFeElpQnBibVJsZUQwaU1UQTAKCUlpQjJZV3gxWlQwaU1D
+        SXZQanh3WVhKaGJTQnVZVzFsUFNKTlNVUkpkbUZzVFdsdU1USWlJR2x1WkdWNFBTSXhNRFVpCglJSFpoYkhWbFBTSXdJaTgrUEhCaGNtRnRJRzVoYldVOUlrMUpSRWwy
+        WVd4TmFXNHhNeUlnYVc1a1pYZzlJakV3TmlJZwoJZG1Gc2RXVTlJakFpTHo0OGNHRnlZVzBnYm1GdFpUMGlUVWxFU1haaGJFMXBiakUwSWlCcGJtUmxlRDBpTVRBM0lp
+        QjIKCVlXeDFaVDBpTUNJdlBqeHdZWEpoYlNCdVlXMWxQU0pOU1VSSmRtRnNUV0Y0TUNJZ2FXNWtaWGc5SWpFeE1DSWdkbUZzCglkV1U5SWpFaUx6NDhjR0Z5WVcwZ2Jt
+        RnRaVDBpVFVsRVNYWmhiRTFoZURFaUlHbHVaR1Y0UFNJeE1URWlJSFpoYkhWbAoJUFNJeElpOCtQSEJoY21GdElHNWhiV1U5SWsxSlJFbDJZV3hOWVhneUlpQnBibVJs
+        ZUQwaU1URXlJaUIyWVd4MVpUMGkKCU1TSXZQanh3WVhKaGJTQnVZVzFsUFNKTlNVUkpkbUZzVFdGNE15SWdhVzVrWlhnOUlqRXhNeUlnZG1Gc2RXVTlJakVpCglMejQ4
+        Y0dGeVlXMGdibUZ0WlQwaVRVbEVTWFpoYkUxaGVEUWlJR2x1WkdWNFBTSXhNVFFpSUhaaGJIVmxQU0l4SWk4KwoJUEhCaGNtRnRJRzVoYldVOUlrMUpSRWwyWVd4TllY
+        ZzFJaUJwYm1SbGVEMGlNVEUxSWlCMllXeDFaVDBpTVNJdlBqeHcKCVlYSmhiU0J1WVcxbFBTSk5TVVJKZG1Gc1RXRjROaUlnYVc1a1pYZzlJakV4TmlJZ2RtRnNkV1U5
+        SWpFaUx6NDhjR0Z5CglZVzBnYm1GdFpUMGlUVWxFU1haaGJFMWhlRGNpSUdsdVpHVjRQU0l4TVRjaUlIWmhiSFZsUFNJeElpOCtQSEJoY21GdAoJSUc1aGJXVTlJazFK
+        UkVsMllXeE5ZWGc0SWlCcGJtUmxlRDBpTVRFNElpQjJZV3gxWlQwaU1TSXZQanh3WVhKaGJTQnUKCVlXMWxQU0pOU1VSSmRtRnNUV0Y0T1NJZ2FXNWtaWGc5SWpFeE9T
+        SWdkbUZzZFdVOUlqRWlMejQ4Y0dGeVlXMGdibUZ0CglaVDBpVFVsRVNYWmhiRTFoZURFd0lpQnBibVJsZUQwaU1USXdJaUIyWVd4MVpUMGlNU0l2UGp4d1lYSmhiU0J1
+        WVcxbAoJUFNKTlNVUkpkbUZzVFdGNE1URWlJR2x1WkdWNFBTSXhNakVpSUhaaGJIVmxQU0l4SWk4K1BIQmhjbUZ0SUc1aGJXVTkKCUlrMUpSRWwyWVd4TllYZ3hNaUln
+        YVc1a1pYZzlJakV5TWlJZ2RtRnNkV1U5SWpFaUx6NDhjR0Z5WVcwZ2JtRnRaVDBpCglUVWxFU1haaGJFMWhlREV6SWlCcGJtUmxlRDBpTVRJeklpQjJZV3gxWlQwaU1T
+        SXZQanh3WVhKaGJTQnVZVzFsUFNKTgoJU1VSSmRtRnNUV0Y0TVRRaUlHbHVaR1Y0UFNJeE1qUWlJSFpoYkhWbFBTSXhJaTgrUEhCaGNtRnRJRzVoYldVOUluQmwKCWNr
+        NXZkR1ZRYVhSamFFSmxibVJTWVc1blpTSWdhVzVrWlhnOUlqRXlOeUlnZG1Gc2RXVTlJakF1TkRJNE5UY3hORE16CglJaTgrUEM5d2NtOW5jbUZ0UGp3dmMzZGhiVDRB
+        Cgk8L2RhdGE+Cgk8a2V5Pm1hbnVmYWN0dXJlcjwva2V5PgoJPGludGVnZXI+MTM5ODIyNzI3NzwvaW50ZWdlcj4KCTxrZXk+bmFtZTwva2V5PgoJPHN0cmluZz5VbnRp
+        dGxlZDwvc3RyaW5nPgoJPGtleT5zdWJ0eXBlPC9rZXk+Cgk8aW50ZWdlcj4xMzk4ODk2NzI0PC9pbnRlZ2VyPgoJPGtleT50eXBlPC9rZXk+Cgk8aW50ZWdlcj4xNjM1
+        MDg1Njg1PC9pbnRlZ2VyPgoJPGtleT52ZXJzaW9uPC9rZXk+Cgk8aW50ZWdlcj4wPC9pbnRlZ2VyPgo8L2RpY3Q+CjwvcGxpc3Q+CgEAAAAAAAAAAAA=
+      >
+      FLOATPOS 0 0 0 0
+      FXID {1AF33710-15BA-E142-8CD1-F0106331F0C8}
+      WAK 0
+    >
+    <ITEM
+      POSITION 14.5
+      SNAPOFFS 0
+      LENGTH 6.95989583333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CFF30DD9-D814-024F-B304-DFB41B504E6B}
+      IID 8
+      NAME "04-Sax Martin-Recorded MIDI"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8D2D194E-7CC7-364F-9BBC-6078B5C151E0}
+      RECPASS 5
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {D4711782-BD64-8943-B5D1-4AF501523265}
+        E 2066 e0 00 40
+        E 1 b0 4a 25
+        E 2 90 3c 22
+        E 22 b0 4a 2a
+        E 24 b0 4a 2d
+        E 12 e0 18 40
+        E 12 b0 4a 2e
+        E 23 e0 30 40
+        E 2 b0 4a 2d
+        E 22 b0 4a 2f
+        E 13 e0 48 40
+        E 11 b0 4a 31
+        E 12 e0 30 40
+        E 13 b0 4a 2f
+        E 11 e0 18 40
+        E 12 e0 00 40
+        E 2 b0 4a 2b
+        E 34 b0 4a 2c
+        E 12 e0 68 3f
+        E 24 b0 4a 2d
+        E 36 e0 00 40
+        E 11 b0 4a 2e
+        E 24 b0 4a 2f
+        E 24 b0 4a 2e
+        E 71 b0 4a 2d
+        E 23 b0 4a 2b
+        E 24 b0 4a 29
+        E 24 b0 4a 28
+        E 24 b0 4a 29
+        E 35 b0 4a 28
+        E 19 e0 00 40
+        E 2 b0 4a 4f
+        E 1 90 3d 2c
+        E 25 b0 4a 52
+        E 27 e0 68 3f
+        E 1 b0 4a 55
+        E 25 b0 4a 56
+        E 7 80 3c 12
+        E 5 e0 50 3f
+        E 13 b0 4a 58
+        E 23 b0 4a 59
+        E 25 b0 4a 5a
+        E 24 b0 4a 5c
+        E 35 e0 68 3f
+        E 2 b0 4a 5b
+        E 22 b0 4a 5a
+        E 12 e0 00 40
+        E 12 b0 4a 59
+        E 70 b0 4a 5a
+        E 48 b0 4a 5b
+        E 23 b0 4a 5a
+        E 71 b0 4a 59
+        E 24 b0 4a 58
+        E 24 b0 4a 56
+        E 24 b0 4a 57
+        E 24 b0 4a 59
+        E 24 b0 4a 5a
+        E 24 e0 00 40
+        E 2 b0 4a 40
+        E 1 90 3e 31
+        E 25 b0 4a 3d
+        E 27 b0 4a 3e
+        E 25 b0 4a 3f
+        E 24 b0 4a 3c
+        E 6 80 3d 22
+        E 6 e0 00 40
+        E 12 b0 4a 37
+        E 24 b0 4a 36
+        E 46 b0 4a 37
+        E 23 b0 4a 36
+        E 47 b0 4a 37
+        E 23 b0 4a 38
+        E 23 b0 4a 3a
+        E 23 b0 4a 3d
+        E 24 b0 4a 3f
+        E 23 b0 4a 43
+        E 23 b0 4a 47
+        E 23 b0 4a 4a
+        E 35 b0 4a 4c
+        E 24 b0 4a 4d
+        E 23 b0 4a 4c
+        E 25 b0 4a 52
+        E 23 b0 4a 55
+        E 16 e0 00 40
+        E 2 b0 4a 23
+        E 2 90 3f 16
+        E 24 b0 4a 1c
+        E 28 b0 4a 19
+        E 27 b0 4a 1b
+        E 22 80 3e 1b
+        E 6 e0 00 40
+        E 1 b0 4a 1c
+        E 21 b0 4a 1f
+        E 25 b0 4a 24
+        E 47 b0 4a 26
+        E 24 b0 4a 28
+        E 24 b0 4a 2a
+        E 24 e0 18 40
+        E 2 b0 4a 2e
+        E 22 b0 4a 30
+        E 24 b0 4a 34
+        E 24 b0 4a 36
+        E 24 b0 4a 38
+        E 23 b0 4a 3b
+        E 13 e0 00 40
+        E 12 b0 4a 3c
+        E 24 b0 4a 3d
+        E 24 b0 4a 3e
+        E 23 e0 68 3f
+        E 2 b0 4a 40
+        E 22 b0 4a 42
+        E 24 b0 4a 44
+        E 24 e0 00 40
+        E 2 b0 4a 47
+        E 22 b0 4a 4a
+        E 24 b0 4a 4e
+        E 25 b0 4a 51
+        E 8 e0 00 40
+        E 2 b0 4a 07
+        E 1 90 41 22
+        E 29 80 3f 28
+        E 8 e0 00 40
+        E 2 b0 4a 0a
+        E 23 b0 4a 0b
+        E 24 b0 4a 0d
+        E 24 b0 4a 0e
+        E 23 b0 4a 0f
+        E 24 b0 4a 10
+        E 24 b0 4a 11
+        E 59 b0 4a 12
+        E 48 b0 4a 13
+        E 60 b0 4a 14
+        E 24 b0 4a 15
+        E 59 b0 4a 16
+        E 23 b0 4a 17
+        E 37 b0 4a 18
+        E 23 b0 4a 17
+        E 60 b0 4a 18
+        E 20 e0 00 40
+        E 2 b0 4a 35
+        E 1 90 42 18
+        E 25 b0 4a 38
+        E 27 b0 4a 37
+        E 18 80 41 0e
+        E 6 e0 00 40
+        E 2 b0 4a 39
+        E 23 b0 4a 3a
+        E 25 b0 4a 3b
+        E 24 b0 4a 3c
+        E 25 b0 4a 3d
+        E 24 b0 4a 40
+        E 35 b0 4a 3f
+        E 24 b0 4a 3e
+        E 24 b0 4a 40
+        E 24 b0 4a 41
+        E 24 b0 4a 44
+        E 60 b0 4a 43
+        E 23 b0 4a 42
+        E 24 b0 4a 41
+        E 24 b0 4a 43
+        E 24 b0 4a 45
+        E 24 b0 4a 47
+        E 35 b0 4a 49
+        E 24 b0 4a 4c
+        E 25 b0 4a 4b
+        E 25 b0 4a 4f
+        E 11 e0 00 40
+        E 2 b0 4a 2a
+        E 1 90 43 28
+        E 26 b0 4a 29
+        E 26 b0 4a 25
+        E 27 b0 4a 23
+        E 27 b0 4a 24
+        E 14 80 42 17
+        E 11 e0 00 40
+        E 12 b0 4a 23
+        E 25 b0 4a 24
+        E 36 b0 4a 23
+        E 25 b0 4a 24
+        E 48 b0 4a 25
+        E 24 b0 4a 29
+        E 24 b0 4a 2a
+        E 23 b0 4a 2b
+        E 23 b0 4a 2e
+        E 24 b0 4a 2f
+        E 24 b0 4a 30
+        E 24 b0 4a 32
+        E 23 b0 4a 36
+        E 24 b0 4a 39
+        E 24 b0 4a 3e
+        E 23 b0 4a 44
+        E 37 b0 4a 47
+        E 24 e0 18 40
+        E 2 b0 4a 49
+        E 11 e0 00 40
+        E 12 b0 4a 4a
+        E 4 e0 00 40
+        E 2 b0 4a 00
+        E 1 90 44 24
+        E 25 b0 4a 01
+        E 9 80 43 0c
+        E 6 e0 00 40
+        E 1 b0 4a 00
+        E 57 b0 4a 01
+        E 84 b0 4a 02
+        E 35 b0 4a 03
+        E 36 b0 4a 04
+        E 23 b0 4a 06
+        E 24 b0 4a 07
+        E 24 b0 4a 09
+        E 24 b0 4a 0b
+        E 23 b0 4a 0d
+        E 24 b0 4a 0f
+        E 23 b0 4a 12
+        E 24 b0 4a 13
+        E 23 b0 4a 16
+        E 24 b0 4a 19
+        E 24 b0 4a 1c
+        E 24 b0 4a 20
+        E 24 b0 4a 22
+        E 20 e0 00 40
+        E 2 b0 4a 2f
+        E 1 90 46 2b
+        E 26 b0 4a 31
+        E 27 b0 4a 33
+        E 16 80 44 15
+        E 9 e0 00 40
+        E 2 b0 4a 34
+        E 23 b0 4a 32
+        E 59 b0 4a 31
+        E 23 b0 4a 32
+        E 24 b0 4a 33
+        E 23 b0 4a 34
+        E 24 b0 4a 35
+        E 23 b0 4a 36
+        E 48 b0 4a 35
+        E 23 b0 4a 36
+        E 48 b0 4a 37
+        E 23 b0 4a 36
+        E 36 b0 4a 37
+        E 24 b0 4a 38
+        E 35 b0 4a 39
+        E 25 b0 4a 37
+        E 7 e0 00 40
+        E 2 b0 4a 52
+        E 1 90 47 20
+        E 25 b0 4a 53
+        E 27 b0 4a 51
+        E 40 b0 4a 52
+        E 27 b0 4a 51
+        E 6 80 46 1d
+        E 6 e0 00 40
+        E 12 b0 4a 52
+        E 24 b0 4a 5a
+        E 35 b0 4a 59
+        E 24 b0 4a 56
+        E 81 b0 4a 55
+        E 24 b0 4a 53
+        E 35 b0 4a 55
+        E 23 b0 4a 56
+        E 24 b0 4a 58
+        E 23 b0 4a 59
+        E 35 b0 4a 58
+        E 23 b0 4a 57
+        E 24 b0 4a 58
+        E 58 b0 4a 56
+        E 24 b0 4a 55
+        E 25 b0 4a 56
+        E 12 e0 00 40
+        E 1 b0 4a 21
+        E 2 90 48 24
+        E 25 b0 4a 22
+        E 26 b0 4a 1f
+        E 14 80 47 27
+        E 12 e0 00 40
+        E 1 b0 4a 1e
+        E 23 b0 4a 1f
+        E 25 b0 4a 20
+        E 35 b0 4a 22
+        E 23 b0 4a 25
+        E 36 b0 4a 24
+        E 23 b0 4a 25
+        E 24 b0 4a 26
+        E 23 b0 4a 28
+        E 24 b0 4a 2b
+        E 23 b0 4a 2d
+        E 24 b0 4a 30
+        E 23 b0 4a 32
+        E 24 b0 4a 35
+        E 59 b0 4a 36
+        E 24 b0 4a 38
+        E 24 b0 4a 39
+        E 59 b0 4a 3c
+        E 24 b0 4a 3e
+        E 37 b0 4a 3d
+        E 24 b0 4a 3c
+        E 4 e0 00 40
+        E 2 b0 4a 04
+        E 1 90 49 1b
+        E 25 b0 4a 08
+        E 10 80 48 01
+        E 5 e0 00 40
+        E 34 b0 4a 07
+        E 24 b0 4a 06
+        E 24 b0 4a 08
+        E 12 e0 18 40
+        E 12 b0 4a 09
+        E 24 b0 4a 0b
+        E 24 b0 4a 0c
+        E 24 b0 4a 0d
+        E 12 e0 00 40
+        E 71 b0 4a 0e
+        E 143 b0 4a 0d
+        E 36 b0 4a 0c
+        E 47 b0 4a 0d
+        E 24 b0 4a 0b
+        E 24 b0 4a 0c
+        E 35 b0 4a 0b
+        E 24 b0 4a 09
+        E 24 b0 4a 08
+        E 23 b0 4a 07
+        E 24 b0 4a 05
+        E 118 b0 4a 04
+        E 35 b0 4a 05
+        E 23 b0 4a 06
+        E 24 b0 4a 05
+        E 23 b0 4a 07
+        E 35 b0 4a 06
+        E 23 b0 4a 08
+        E 23 b0 4a 09
+        E 24 b0 4a 0a
+        E 24 b0 4a 0c
+        E 23 b0 4a 10
+        E 24 b0 4a 11
+        E 11 80 49 4f
+        E 3462 b0 7b 00
+        GUID {7F4B0880-41D6-4F42-AD22-021BE22E735C}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 165
+      >
+    >
+  >
+  <EXTENSIONS
+  >
+>
